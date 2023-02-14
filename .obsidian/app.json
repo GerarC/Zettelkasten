@@ -1,0 +1,24 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "vimMode": true,
+  "spellcheckLanguages": null,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "attachmentFolderPath": "./Resources",
+  "newFileLocation": "current",
+  "showInlineTitle": false,
+  "spellcheck": true,
+  "showFrontmatter": true,
+  "rightToLeft": false,
+  "defaultViewMode": "preview",
+  "livePreview": false,
+  "userIgnoreFilters": [
+    "Templates/"
+  ]
+}

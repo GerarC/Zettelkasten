@@ -1,0 +1,12 @@
+{
+  "accentColor": "#3f00ff",
+  "theme": "obsidian",
+  "nativeMenus": false,
+  "textFontFamily": "SauceCodePro Nerd Font",
+  "monospaceFontFamily": "CaskaydiaCove Nerd Font Mono",
+  "interfaceFontFamily": "SauceCodePro Nerd Font",
+  "cssTheme": "Border",
+  "baseFontSize": 17,
+  "baseFontSizeAction": false,
+  "showViewHeader": true
+}

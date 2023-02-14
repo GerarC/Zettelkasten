@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "de796ac39277c180",
+    "type": "split",
+    "children": [
+      {
+        "id": "beeab194b66cb51b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "699ca781acc6c5d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen/ICC00C Importance of Documentation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f2485a249b0c9d4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ae9e75f4c6be7b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources/MPU Mechanics Physics/SZPs00 Nature of Physics.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "43dfd6dffa71074e",
+    "type": "split",
+    "children": [
+      {
+        "id": "223b402d082146e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d93a6e26cbe0513f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4b40ba2ea4fbaa5a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0fcb79b5fc374406",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 386.5
+  },
+  "right": {
+    "id": "3afbfa8621022cbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "65aca6c37bdef5f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62b82816dc0c193b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Evergreen/ICC00C Importance of Documentation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f8c9e52ca1b4fa96",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Evergreen/ICC00C Importance of Documentation.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.433785133416524,
+                  "repelStrength": 19.1216864039932,
+                  "linkStrength": 0.785890170344239,
+                  "linkDistance": 369,
+                  "scale": 0.20775611984587833,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "b3635e67b96ba3bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9485524cd02e2ad6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Evergreen/ICC00C Importance of Documentation.md"
+              }
+            }
+          },
+          {
+            "id": "1045fdc08748ef56",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Evergreen/ICC00C Importance of Documentation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false
+    }
+  },
+  "active": "699ca781acc6c5d3",
+  "lastOpenFiles": [
+    "Evergreen/MPU00 Physics Nature.md",
+    "Evergreen/MPU00A Standard Units.md",
+    "Evergreen/MPU00B Uncertainty.md",
+    "Evergreen/MPU00C Base to Solve Physics Problems.md",
+    "Evergreen/MPU00D Unit Convertion.md",
+    "Sources/MPU Mechanics Physics/SZPs00 Nature of Physics.md",
+    "Sources/MPU Mechanics Physics/SZPs00A Solving Physics Problems.md",
+    "Sources/MPU Mechanics Physics/Resources/MPS Problem Solving Strategy 1.1.png",
+    "Sources/MPU Mechanics Physics/SZPs00D Uncertainty and Significant Figures.md",
+    "Sources/MPU Mechanics Physics/SZPs01 Vectors.md"
+  ]
+}

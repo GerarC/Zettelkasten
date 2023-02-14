@@ -1,0 +1,79 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#mechanics_physics",
+      "color": {
+        "a": 1,
+        "rgb": 5897984
+      }
+    },
+    {
+      "query": "path:Templates",
+      "color": {
+        "a": 1,
+        "rgb": 8488342
+      }
+    },
+    {
+      "query": "path:Resources",
+      "color": {
+        "a": 1,
+        "rgb": 16744448
+      }
+    },
+    {
+      "query": "path:\"Evergreen/PRG Programming\"",
+      "color": {
+        "a": 1,
+        "rgb": 15011456
+      }
+    },
+    {
+      "query": "path:\"Evergreen/HTS How To Study\"",
+      "color": {
+        "a": 1,
+        "rgb": 1611103
+      }
+    },
+    {
+      "query": "path:\"Evergreen/HTS How To Study\"",
+      "color": {
+        "a": 1,
+        "rgb": 14789889
+      }
+    },
+    {
+      "query": "path:Sources",
+      "color": {
+        "a": 1,
+        "rgb": 4129023
+      }
+    },
+    {
+      "query": "path:Evergreen",
+      "color": {
+        "a": 1,
+        "rgb": 1938717
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 2.65208333333333,
+  "lineSizeMultiplier": 3.3921875,
+  "collapse-forces": false,
+  "centerStrength": 0.5,
+  "repelStrength": 20,
+  "linkStrength": 0.773684210526316,
+  "linkDistance": 203,
+  "scale": 0.21360859888062916,
+  "close": false
+}
