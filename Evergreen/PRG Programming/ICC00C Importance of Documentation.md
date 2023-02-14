@@ -16,5 +16,4 @@ If you want to understand your code in the future and someone else get it you ha
 It's useful to maintain and update the code, and when the code have documentation your learn from your errors, so you will not repeat them in the future. And finally, documentation saves time because the programmer doesn't have to explain the code to other people, because it has been explained.
 
 # Links
-**Previous:** [[ICC00B Coding Style|ICC00B]]
-**Next:** [[PTC00 Coding Style in Python|PTC00]]
+<<[[ICC00B Coding Style|ICC00B]]|[[PTC00 Coding Style in Python|PTC00]]>>

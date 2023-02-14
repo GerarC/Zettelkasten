@@ -19,5 +19,4 @@ with contextlib.suppress(DataCoversionError):
 ~~~
 
 # Links
-**Previous:** [[PTC02B Context Manager as Decorator|PTC02B]]
-**Next:** [[]]
+<<[[PTC02B Context Manager as Decorator|PTC02B]]|[[]]>>

@@ -19,5 +19,4 @@ Could be useful to find a [[ICC00A Technical Debts#PRG00A Technical Debts|techni
 - I'm creating problems to the team or even myself in this moment?
 
 # Links
-**Previous:** [[ICC00 Importance of Clean Code|PRG00]]
-**Next:** [[ICC00B Coding Style|PRG00B]]
+<<[[ICC00 Importance of Clean Code|PRG00]]|[[ICC00B Coding Style|PRG00B]]>>

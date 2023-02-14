@@ -53,5 +53,4 @@ def main():
 ~~~
 
 # Links
-**Previous:** [[PTC01B Create Own Sequences with len and getitem|PTC01B]]
-**Next:** [[PTC02A Context Manager From a Function|PTC02A]]
+<<[[PTC01B Create Own Sequences with len and getitem|PTC01B]]|[[PTC02A Context Manager From a Function|PTC02A]]>>

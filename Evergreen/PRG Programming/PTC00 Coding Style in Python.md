@@ -13,5 +13,4 @@ code: PTC00
 In python there is an official [[ICC00B Coding Style#ICC00B Coding Style|style of code]], PEP-8. It basically says how write the code. For example, when put a space and things like that. And there is some tools to check it. tools like mypy, pylint, black ans etc. If you want to check it easily, you can create 3x Makefile where you use this tools.
 
 # Links
-**Previous:** [[ICC00B Coding Style#ICC00B Coding Style|ICC00B]]
-**Next:** [[PTC00A Documentation in Python#PTC00A Documentation in Python|PTC00A]]
+<<[[ICC00B Coding Style#ICC00B Coding Style|ICC00B]]|[[PTC00A Documentation in Python#PTC00A Documentation in Python|PTC00A]]>>

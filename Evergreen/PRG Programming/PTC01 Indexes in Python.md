@@ -27,5 +27,4 @@ print(mylist[-1])
 ~~~
 
 # Links
-**Previous:** [[PTC00A Documentation in Python|PTC00A]]
-**Next:** [[PTC01A Intervals in Python|PTC01A]]
+<<[[PTC00A Documentation in Python|PTC00A]]|[[PTC01A Intervals in Python|PTC01A]]>>

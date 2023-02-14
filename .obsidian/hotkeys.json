@@ -24,25 +24,6 @@
       "key": "H"
     }
   ],
-  "theme:use-dark": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "D"
-    }
-  ],
-  "theme:use-light": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod",
-        "Shift"
-      ],
-      "key": "L"
-    }
-  ],
   "app:toggle-left-sidebar": [
     {
       "modifiers": [
@@ -94,6 +75,33 @@
         "Shift"
       ],
       "key": "L"
+    }
+  ],
+  "theme:use-light": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "A"
+    }
+  ],
+  "theme:use-dark": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ],
+  "editor:toggle-blockquote": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
     }
   ]
 }

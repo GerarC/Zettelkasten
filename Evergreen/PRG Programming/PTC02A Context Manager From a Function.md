@@ -20,5 +20,4 @@ def context_manager():
 ~~~
 
 # Links
-**Previous:** [[PTC02 Context Manager|PTC02]]
-**Next:** [[PTC02B Context Manager as Decorator|PTC02B]]
+<<[[PTC02 Context Manager|PTC02]]|[[PTC02B Context Manager as Decorator|PTC02B]]>>

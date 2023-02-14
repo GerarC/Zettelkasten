@@ -12,4 +12,4 @@ code: MPU00
 Physics and well... all the sciences don't search establish a Ultimate truth, the genuine nature of the sciences is SEARCH the truth it doesn't matter if a new hypothesis breaks previous established things. There will be always the possibility that the previous things, studies, researches and so on, be replaced by more practical and realistic studies. 
 
 # Links
-**Next:** [[MPU00A Standard Units|MPU00A]]
+<<[[MPU00A Standard Units|MPU00A]]>>

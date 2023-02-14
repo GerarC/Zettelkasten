@@ -13,33 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen/ICC00C Importance of Documentation.md",
+                "file": "Templates/Source Note.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "f2485a249b0c9d4d",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "9ae9e75f4c6be7b6",
+            "id": "cafdb59990cff6c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/MPU Mechanics Physics/SZPs00 Nature of Physics.md",
+                "file": "Evergreen/ITN Introduction To Networks/ITN00 Host.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b0f87f8bc85fa0a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Pre process Annotations/MPS Mechanics Physics.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.5
+    "width": 285.5,
+    "collapsed": true
   },
   "right": {
     "id": "3afbfa8621022cbf",
@@ -105,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Evergreen/ICC00C Importance of Documentation.md",
+                "file": "Resources/Pre process Annotations/MPS Mechanics Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Evergreen/ICC00C Importance of Documentation.md",
+                "file": "Resources/Pre process Annotations/MPS Mechanics Physics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -163,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evergreen/ICC00C Importance of Documentation.md"
+                "file": "Resources/Pre process Annotations/MPS Mechanics Physics.md"
               }
             }
           },
@@ -173,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evergreen/ICC00C Importance of Documentation.md",
+                "file": "Resources/Pre process Annotations/MPS Mechanics Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,17 +210,17 @@
       "templates:Insert template": false
     }
   },
-  "active": "699ca781acc6c5d3",
+  "active": "d93a6e26cbe0513f",
   "lastOpenFiles": [
-    "Evergreen/MPU00 Physics Nature.md",
-    "Evergreen/MPU00A Standard Units.md",
-    "Evergreen/MPU00B Uncertainty.md",
-    "Evergreen/MPU00C Base to Solve Physics Problems.md",
-    "Evergreen/MPU00D Unit Convertion.md",
-    "Sources/MPU Mechanics Physics/SZPs00 Nature of Physics.md",
-    "Sources/MPU Mechanics Physics/SZPs00A Solving Physics Problems.md",
-    "Sources/MPU Mechanics Physics/Resources/MPS Problem Solving Strategy 1.1.png",
-    "Sources/MPU Mechanics Physics/SZPs00D Uncertainty and Significant Figures.md",
-    "Sources/MPU Mechanics Physics/SZPs01 Vectors.md"
+    "Resources/Pre process Annotations/ITN Introduction to Networks.md",
+    "Evergreen/PRG Programming/PTC02C Manage Errors with Context Manager.md",
+    "Evergreen/PRG Programming/PTC02B Context Manager as Decorator.md",
+    "Evergreen/PRG Programming/PTC02A Context Manager From a Function.md",
+    "Evergreen/PRG Programming/PTC02 Context Manager.md",
+    "Evergreen/PRG Programming/PTC01B Create Own Sequences with len and getitem.md",
+    "Evergreen/PRG Programming/PTC01A Intervals in Python.md",
+    "Evergreen/PRG Programming/PTC01 Indexes in Python.md",
+    "Evergreen/PRG Programming/PTC00A Documentation in Python.md",
+    "Evergreen/PRG Programming/PTC00 Coding Style in Python.md"
   ]
 }

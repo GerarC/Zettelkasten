@@ -6,7 +6,7 @@ source_type: # Book | course | article | ...
 author: 
 type: 2 #sourcenote
 topics: 
-tags: 
+tags: unfinished, 
 ---
 # {{title}}
 

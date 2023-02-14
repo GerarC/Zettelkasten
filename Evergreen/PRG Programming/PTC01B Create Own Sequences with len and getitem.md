@@ -30,5 +30,4 @@ def __getitem__(self, item):
 ~~~
 
 # Links
-**Previous:** [[PTC01A Intervals in Python|PTC01A]]
-**Next:** [[PTC02 Context Manager|PTC02]]
+<<[[PTC01A Intervals in Python|PTC01A]]|[[PTC02 Context Manager|PTC02]]>>

@@ -14,5 +14,4 @@ The annotations are very important because python is dynamically typed, and erro
 Documentation was used to explain the type of the parameters of the functions o classes and its methods when the annotations didn't exist. Now you can use docstrings to explain how works your code, what raises an error, what is the return, and if the parameter is a complex type like a dictionary or something like that you can clarify how is composed it.
 
 # Links
-**Previous:** [[ICC00C Importance of Documentation#ICC00C Importance of Documentation|ICC00C]]
-**Next:** [[PTC01 Indexes in Python#PTC01 Indexes in Python|PTC01]]
+<<[[ICC00C Importance of Documentation#ICC00C Importance of Documentation|ICC00C]]|[[PTC01 Indexes in Python#PTC01 Indexes in Python|PTC01]]>>

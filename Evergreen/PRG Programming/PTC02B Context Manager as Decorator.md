@@ -28,5 +28,4 @@ def db_backup():
 ~~~
 
 # Links
-**Previous:** [[PTC02A Context Manager From a Function|PTC02A]]
-**Next:** [[PTC02C Manage Errors with Context Manager|PTC02C]]
+<<[[PTC02A Context Manager From a Function|PTC02A]]|[[PTC02C Manage Errors with Context Manager|PTC02C]]>>

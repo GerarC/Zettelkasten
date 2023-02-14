@@ -19,6 +19,7 @@
   "defaultViewMode": "preview",
   "livePreview": false,
   "userIgnoreFilters": [
-    "Templates/"
+    "Templates/",
+    "Resources/"
   ]
 }

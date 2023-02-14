@@ -14,4 +14,4 @@ It's also very important to the developer himself 'cause is possible, after a ti
 Not having a clean code could implies not recognizing a [[ICC00A Technical Debts#PRG00A Technical Debts|technical debt]] in time. 
 
 # Links
-**Next:** [[ICC00A Technical Debts|PRG00A]]
+<<[[ICC00A Technical Debts|PRG00A]]>>

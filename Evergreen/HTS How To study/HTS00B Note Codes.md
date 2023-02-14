@@ -24,5 +24,4 @@ If it's a [[HTS00A Note types#HTS00A/1 Source Notes|source note]] just need to a
 <small>It's important know that a source note doesn't could have the same note code that the permanent note that references to it.</small>
 
 # Links
-**Previous:** [[HTS00A Note types|HTS00A]]
-**Next:** [[HTS00C References Format|HTS00C]]
+<<[[HTS00A Note types|HTS00A]]|[[HTS00C References Format|HTS00C]]>>

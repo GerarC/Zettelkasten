@@ -11,4 +11,4 @@ code: HTS00C
 
 
 # Links
-**Previous:** [[HTS00B Note Codes|HTS00B]]
+<<[[HTS00B Note Codes|HTS00B]]>>

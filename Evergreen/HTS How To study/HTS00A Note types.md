@@ -46,7 +46,6 @@ code: the code of the note
 ~~~
 
 # Links
-**Previous:** [[HTS00 Guide|HTS00]]
-**Next:** [[HTS00B Note Codes|HTS00B]]
+<<[[HTS00 Guide|HTS00]]|[[HTS00B Note Codes|HTS00B]]>>
 
 [^1]: [Zettelkasten](https://es.wikipedia.org/wiki/Zettelkasten)

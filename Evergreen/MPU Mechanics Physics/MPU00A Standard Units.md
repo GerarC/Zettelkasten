@@ -11,5 +11,4 @@ code: MPU00A
 
 
 # Links
-**Previous:** [[MPU00 Physics Nature|MPU00]]
-**Next:** [[MPU00B Uncertainty|MPU00B]]
+<<[[MPU00 Physics Nature|MPU00]]|[[MPU00B Uncertainty|MPU00B]]>>

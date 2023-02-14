@@ -14,4 +14,4 @@ This vault follows Zettelkasten method to study. The point of this method is to 
 I try to improve the codes linking way with the wikilinks and tags available in obsidian, so explore, read and search in this vault should be so quick and easy.
 
 # Links
-**Next:** [[HTS00A Note types|HTS00A]]
+<<[[HTS00A Note types|HTS00A]]>>

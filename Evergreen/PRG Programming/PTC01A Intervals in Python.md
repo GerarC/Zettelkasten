@@ -50,5 +50,4 @@ my_nums[interval]
 
 
 # Links
-**Previous:** [[PTC01 Indexes in Python|PTC01]]
-**Next:** [[PTC01B Create Own Sequences with len and getitem|PTC01B]]
+<<[[PTC01 Indexes in Python|PTC01]]|[[PTC01B Create Own Sequences with len and getitem|PTC01B]]>>
