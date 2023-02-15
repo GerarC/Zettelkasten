@@ -11,4 +11,4 @@ code: MPU00B
 
 
 # Links
-<<[[MPU00A Standard Units|MPU00A]]|[[MPU00C Base to Solve Physics Problems|MPU00C]]>>
+<<[[MPU00A Standard Unit|MPU00A]]|[[MPU00C Base to Solve Physics Problems|MPU00C]]>>

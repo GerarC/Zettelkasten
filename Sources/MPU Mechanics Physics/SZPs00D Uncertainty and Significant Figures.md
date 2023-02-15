@@ -20,3 +20,4 @@ University Physics, Sears and Zemansky; Chapter 1.5, Page 31.
 > When you use numbers that have uncertainties to compute other numbers, the  computed numbers are also uncertain. When numbers are multiplied or divided,  the result can have no more significant figures than the factor with the fewest significant figures has. For example, 3.1416 * 2.34 * 0.58 = 4.3. When we add and subtract numbers, it’s the location of the decimal point that matters, not the number of significant figures. For example, 123.62 + 8.9 = 132.5. *Page 33*
 
 ## **Summary**
+The *Uncertainty* or *Error* of an measure refers to the difference between the real and the measured values, It depends on the measurement method, Other way to allude to Error is talking about the Significant Figures, When you say a value has $n$ significant figures, $n-1$ are well known and the last one is uncertain. 

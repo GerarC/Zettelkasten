@@ -8,10 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#mechanics_physics",
+      "query": "path:Sources",
       "color": {
         "a": 1,
-        "rgb": 5897984
+        "rgb": 4129023
       }
     },
     {
@@ -22,6 +22,13 @@
       }
     },
     {
+      "query": "tag:#mechanics_physics",
+      "color": {
+        "a": 1,
+        "rgb": 5897984
+      }
+    },
+    {
       "query": "path:Resources",
       "color": {
         "a": 1,
@@ -29,7 +36,7 @@
       }
     },
     {
-      "query": "path:\"Evergreen/PRG Programming\"",
+      "query": "path:",
       "color": {
         "a": 1,
         "rgb": 15011456
@@ -50,13 +57,6 @@
       }
     },
     {
-      "query": "path:Sources",
-      "color": {
-        "a": 1,
-        "rgb": 4129023
-      }
-    },
-    {
       "query": "path:Evergreen",
       "color": {
         "a": 1,
@@ -74,6 +74,6 @@
   "repelStrength": 20,
   "linkStrength": 0.773684210526316,
   "linkDistance": 203,
-  "scale": 0.21360859888062916,
-  "close": false
+  "scale": 0.07341411142125734,
+  "close": true
 }
