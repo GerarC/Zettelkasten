@@ -17,4 +17,4 @@ University Physics, Sears and Zemansky; Chapter 1.8.
  ![[MPS Problem Solving Strategy 1.3.png]]
 
 ## **Summary**
-To Add and Substract two or more vectors you can use the Decomposition on *Components* and for each axis add all the components and with It, you will obtain the components of the result vector and with it you will be able to calculate the direction of the vector.
+To Add and Subtract two or more vectors you can use the Decomposition on *Components* and for each axis add all the components and with It, you will obtain the components of the result vector and with it you will be able to calculate the direction of the vector.

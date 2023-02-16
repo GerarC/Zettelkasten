@@ -6,7 +6,7 @@ source_type: book
 author: Sears, Zemansky
 type: 2 #sourcenote
 topics: Mechanics Physics, Physics
-tags: unfinished, mechanics_physics, physics, vectors, university
+tags: mechanics_physics, physics, vectors, university
 ---
 # SZPs03 Position Vector
 
@@ -19,6 +19,6 @@ Let’s see how to describe a particle’s motion in space. If the particle is a
 $\vec{r} = x\hat{i} + y\hat{j} + z\hat{k}$
 
 ## **Summary**
-The position of a particle can be describe by a *Vector* denoted as $\vec{r}$.
+The position of a particle can be described by a *Vector* denoted as $\vec{r}$.
 
-In two dimensions is $\vec{r} = x\hat{i} + y\hat{j}$
+In two dimensions is $\vec{r} = x\hat{i} + y\hat{j}$ and in more dimension is just add more axis.

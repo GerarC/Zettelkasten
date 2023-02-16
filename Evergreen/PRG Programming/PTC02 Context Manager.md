@@ -1,5 +1,5 @@
 ---
-reference: [[CCPs01B Context Managers]]
+reference: "[[CCPs01B Context Managers]]"
 date: 24/01/2023
 type: 1 #evergreen
 topics: Programming, Code, Software, Python, Pythonic Code, Context Manager, Good Practices

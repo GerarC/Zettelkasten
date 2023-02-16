@@ -20,6 +20,7 @@
   "livePreview": false,
   "userIgnoreFilters": [
     "Templates/",
-    "Resources/"
+    "Resources/",
+    "README"
   ]
 }

@@ -4,9 +4,16 @@
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
+    {
+      "query": "tag:#unfinished",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
     {
       "query": "path:Sources",
       "color": {
@@ -19,13 +26,6 @@
       "color": {
         "a": 1,
         "rgb": 8488342
-      }
-    },
-    {
-      "query": "tag:#mechanics_physics",
-      "color": {
-        "a": 1,
-        "rgb": 5897984
       }
     },
     {
@@ -43,10 +43,10 @@
       }
     },
     {
-      "query": "path:\"Evergreen/HTS How To Study\"",
+      "query": "tag:#mechanics_physics",
       "color": {
         "a": 1,
-        "rgb": 1611103
+        "rgb": 15618997
       }
     },
     {
@@ -64,16 +64,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -1,
-  "nodeSizeMultiplier": 2.65208333333333,
-  "lineSizeMultiplier": 3.3921875,
-  "collapse-forces": false,
-  "centerStrength": 0.5,
+  "textFadeMultiplier": -0.4,
+  "nodeSizeMultiplier": 1.80989583333333,
+  "lineSizeMultiplier": 3.03489583333333,
+  "collapse-forces": true,
+  "centerStrength": 1,
   "repelStrength": 20,
-  "linkStrength": 0.773684210526316,
-  "linkDistance": 203,
-  "scale": 0.07341411142125734,
+  "linkStrength": 1,
+  "linkDistance": 101,
+  "scale": 0.2614717372617244,
   "close": true
 }

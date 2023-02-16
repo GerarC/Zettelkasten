@@ -1,5 +1,5 @@
 ---
-reference: [[CCPs01E Managing errors with context manager]]
+reference: "[[CCPs01E Managing errors with context manager]]"
 date: 24/01/2023
 type: 1 #evergreen
 topics: Programming, Code, Software, Python, Pythonic Code, Context Manager, Good Practices

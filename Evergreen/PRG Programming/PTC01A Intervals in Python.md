@@ -1,5 +1,5 @@
 ---
-reference: [[CCPs01 Indexes & Slice in Python]]
+reference: "[[CCPs01 Indexes & Slice in Python]]"
 date: 24/01/2023
 type: 1 #evergreen
 topics: Programming, Code, Software, Iterable, Python, Pythonic Code

@@ -40,7 +40,7 @@ Through the human history there have been a lot of measurement units, but not al
 The units used for the time by **SI** is the *second (s)*, a second is the time required for 9,192,631,770 cycles of the microwave radiation emitted in the transition of the between the lowest energy states of a cesium 133 isotope atom.
 
 **Length**
-To measure a length, the **SI** use the unit of *Meter (m)*, a meter is the distance traveled by the light in $1/2999,792,458$ seconds
+To measure a length, the **SI** use the unit of *Meter (m)*, a meter is the distance traveled by the light in $1/299,792,458$ seconds
 
 **Mass**
 The standard of the mass unit measurement is the *Kilogram (kg)*, this unit was defined as the mass of a particular cylinder of platinum-iridium alloy kept at the International Bureau of Weights and Measures. Nowadays is other definition but is so hard to explain for me in the moment.

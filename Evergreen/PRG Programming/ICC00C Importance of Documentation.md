@@ -1,7 +1,7 @@
 ---
 reference: 
-- [[PRG00C Importance of Documentation]]
-- [[PRGs00D Why Documentation]]
+- "[[PRG00C Importance of Documentation]]"
+- "[[PRGs00D Why Documentation]]"
 date: 09/01/2023
 type: 1 #evergreen
 topics: Programming, Clean Code, Good Practices, Software

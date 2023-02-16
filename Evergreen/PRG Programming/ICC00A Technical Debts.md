@@ -1,5 +1,5 @@
 ---
-reference: [[PRG00B Coding Style]]
+reference: "[[PRG00B Coding Style]]"
 date: 09/01/2023
 type: 1 #evergreen
 topics: Programming, Clean Code, Code, Good Practices, Software

@@ -1,5 +1,5 @@
 ---
-reference: [[CCPs01D Context Managers As Decorator]]
+reference: [CCPs01D Context ""Managers As Decorator]]"
 date: 24/01/2023
 type: 1 #evergreen
 topics: Programming, Code, Software, Python, Pythonic Code, Context Manager, Good Practices

@@ -1,5 +1,5 @@
 ---
-reference: [[SZPs00 Nature of Physics]]
+reference: "[[SZPs00 Nature of Physics]]"
 date: 03/02/2023
 type: 1 #evergreen
 topics: Mechanics Physics, University

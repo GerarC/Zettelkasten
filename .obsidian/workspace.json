@@ -6,7 +6,7 @@
       {
         "id": "a2691dacca3e8bd3",
         "type": "tabs",
-        "dimension": 49.42748091603054,
+        "dimension": 50,
         "children": [
           {
             "id": "ef8f0bcff6c1ff48",
@@ -14,27 +14,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/MPU Mechanics Physics/SZPs03 Position Vector.md",
-                "mode": "source",
+                "file": "Evergreen/MPU Mechanics Physics/MPU01C Unit Vector.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3bde50e7e48ffa8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen/MPU Mechanics Physics/MPU03 Projectile Motion.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "beeab194b66cb51b",
+        "id": "5650f2214b68917a",
         "type": "tabs",
-        "dimension": 50.57251908396947,
+        "dimension": 50,
         "children": [
           {
-            "id": "4486e39cbd70167e",
+            "id": "c08789d0b810847a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/MPU Mechanics Physics/SZPs03 Position Vector.md",
+                "file": "Resources/Pre process Annotations/MPS Mechanics Physics.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -91,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454.5
+    "width": 281.5
   },
   "right": {
     "id": "3afbfa8621022cbf",
@@ -107,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sources/MPU Mechanics Physics/SZPs03 Position Vector.md",
+                "file": "Evergreen/MPU Mechanics Physics/MPU03 Projectile Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sources/MPU Mechanics Physics/SZPs03 Position Vector.md",
+                "file": "Evergreen/MPU Mechanics Physics/MPU03 Projectile Motion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -165,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/MPU Mechanics Physics/SZPs03 Position Vector.md"
+                "file": "Evergreen/MPU Mechanics Physics/MPU03 Projectile Motion.md"
               }
             }
           },
@@ -175,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/MPU Mechanics Physics/SZPs03 Position Vector.md",
+                "file": "Evergreen/MPU Mechanics Physics/MPU03 Projectile Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,17 +217,17 @@
       "templates:Insert template": false
     }
   },
-  "active": "ef8f0bcff6c1ff48",
+  "active": "3bde50e7e48ffa8b",
   "lastOpenFiles": [
+    "Evergreen/MPU Mechanics Physics/MPU03A Circular Motion.md",
+    "Evergreen/MPU Mechanics Physics/MPU03 Projectile Motion.md",
+    "Resources/Pre process Annotations/MPS Mechanics Physics.md",
+    "Sources/MPU Mechanics Physics/SZPs03D Projectile Motion.md",
+    "Evergreen/MPU Mechanics Physics/MPU02E Free Falling.md",
+    "Resources/Pre process Annotations/ITN Introduction to Networks.md",
     "Sources/MPU Mechanics Physics/SZPs02D Free Falling Bodies.md",
-    "Sources/MPU Mechanics Physics/SZPs03 Position Vector.md",
-    "Sources/MPU Mechanics Physics/SZPs02C Motion With Constant Acceleration.md",
-    "Sources/MPU Mechanics Physics/Resources/MPS Problem Solving Strategy 2.1.png",
     "Sources/MPU Mechanics Physics/SZPs02B Acceleration.md",
-    "Sources/MPU Mechanics Physics/SZPs01C Unit Vectors.md",
-    "Sources/MPU Mechanics Physics/SZPs02A Velocity.md",
-    "Sources/MPU Mechanics Physics/SZPs02 Displacement.md",
-    "Sources/MPU Mechanics Physics/SZPs01E Vector Product.md",
-    "Sources/MPU Mechanics Physics/SZPs01D Scalar Product.md"
+    "Sources/MPU Mechanics Physics/SZPs03E Solving a Projectile Motion Problem.md",
+    "Sources/MPU Mechanics Physics/SZPs02C Motion With Constant Acceleration.md"
   ]
 }

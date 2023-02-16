@@ -1,5 +1,5 @@
 ---
-reference: [[CCPs01C Context Manager as Function]]
+reference: "[[CCPs01C Context Manager as Function]]"
 date: 24/01/2023
 type: 1 #evergreen
 topics: Programming, Code, Software, Python, Pythonic Code, Context Manager, Good Practices

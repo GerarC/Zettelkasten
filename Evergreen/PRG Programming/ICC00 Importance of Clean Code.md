@@ -1,5 +1,5 @@
 ---
-reference: [[PRGs00 Why Clean code is important]]
+reference: "[[PRGs00 Why Clean code is important]]"
 date: 09/01/2023
 type: 1 #evergreen
 topics: Programming, Clean Code, Code, Good Practices, Software

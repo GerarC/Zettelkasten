@@ -1,5 +1,5 @@
 ---
-references: [[Own Idea]]
+references: "[[Own Idea]]"
 date: 07/01/2023
 type: 1 #evergreen
 topics: autodidact

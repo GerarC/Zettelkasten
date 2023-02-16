@@ -1,5 +1,5 @@
 ---
-reference: [[CCPs01A Creating Sequenses]]
+reference: "[[CCPs01A Creating Sequenses]]"
 date: 24/01/2023
 type: 1 #evergreen
 topics: Programming, Code, Software, Iterable, Python, Pythonic Code
