@@ -4,7 +4,7 @@ date: 14/02/2023
 type: 1 #evergreen
 topics: Mechanics Physics, University
 alias: MPU02E, Free Falling
-tags: mechanics_physics, physics, vector
+tags: mechanics_physics, physics, mrua
 code: MPU02E
 ---
 # MPU02E Free Falling

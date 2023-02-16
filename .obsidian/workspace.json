@@ -4,30 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "a2691dacca3e8bd3",
+        "id": "5650f2214b68917a",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "ef8f0bcff6c1ff48",
+            "id": "956e51095ea72317",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen/MPU Mechanics Physics/MPU01C Unit Vector.md",
-                "mode": "preview",
+                "file": "Evergreen/MPU Mechanics Physics/MPU03A Uniform Circular Motion.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           },
           {
-            "id": "3bde50e7e48ffa8b",
+            "id": "0c5c5abb33232a4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen/MPU Mechanics Physics/MPU03 Projectile Motion.md",
+                "file": "Evergreen/MPU Mechanics Physics/MPU03B Normal Acceleration.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1c2b0690ad362154",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen/MPU Mechanics Physics/MPU03C Nonuniform Circular Motion.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "fe9e2ff79f29baa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen/MPU Mechanics Physics/MPU03C Nonuniform Circular Motion.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -35,21 +60,20 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
-        "id": "5650f2214b68917a",
+        "id": "d85a8cad20bc9469",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "c08789d0b810847a",
+            "id": "044172f0c6232ec7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Pre process Annotations/MPS Mechanics Physics.md",
-                "mode": "preview",
+                "file": "Sources/MPU Mechanics Physics/SZPs03F Motion in a Circle.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -121,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Evergreen/MPU Mechanics Physics/MPU03 Projectile Motion.md",
+                "file": "Evergreen/MPU Mechanics Physics/MPU03C Nonuniform Circular Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Evergreen/MPU Mechanics Physics/MPU03 Projectile Motion.md",
+                "file": "Evergreen/MPU Mechanics Physics/MPU03C Nonuniform Circular Motion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -179,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evergreen/MPU Mechanics Physics/MPU03 Projectile Motion.md"
+                "file": "Evergreen/MPU Mechanics Physics/MPU03C Nonuniform Circular Motion.md"
               }
             }
           },
@@ -189,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evergreen/MPU Mechanics Physics/MPU03 Projectile Motion.md",
+                "file": "Evergreen/MPU Mechanics Physics/MPU03C Nonuniform Circular Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,17 +241,17 @@
       "templates:Insert template": false
     }
   },
-  "active": "3bde50e7e48ffa8b",
+  "active": "fe9e2ff79f29baa8",
   "lastOpenFiles": [
-    "Evergreen/MPU Mechanics Physics/MPU03A Circular Motion.md",
-    "Evergreen/MPU Mechanics Physics/MPU03 Projectile Motion.md",
-    "Resources/Pre process Annotations/MPS Mechanics Physics.md",
-    "Sources/MPU Mechanics Physics/SZPs03D Projectile Motion.md",
-    "Evergreen/MPU Mechanics Physics/MPU02E Free Falling.md",
-    "Resources/Pre process Annotations/ITN Introduction to Networks.md",
-    "Sources/MPU Mechanics Physics/SZPs02D Free Falling Bodies.md",
-    "Sources/MPU Mechanics Physics/SZPs02B Acceleration.md",
+    "Sources/MPU Mechanics Physics/SZPs03F Motion in a Circle.md",
+    "Evergreen/MPU Mechanics Physics/MPU03C Nonuniform Circular Motion.md",
+    "Evergreen/MPU Mechanics Physics/MPU03B Normal Acceleration.md",
+    "Evergreen/MPU Mechanics Physics/MPU03A Uniform Circular Motion.md",
     "Sources/MPU Mechanics Physics/SZPs03E Solving a Projectile Motion Problem.md",
-    "Sources/MPU Mechanics Physics/SZPs02C Motion With Constant Acceleration.md"
+    "Evergreen/MPU Mechanics Physics/MPU03D Relative Velocity.md",
+    "Resources/Pre process Annotations/MPS Mechanics Physics.md",
+    "Evergreen/MPU Mechanics Physics/MPU03 Projectile Motion.md",
+    "Evergreen/MPU Mechanics Physics/MPU02D Motion With Constant Acceleration.md",
+    "Evergreen/MPU Mechanics Physics/MPU02E Free Falling.md"
   ]
 }

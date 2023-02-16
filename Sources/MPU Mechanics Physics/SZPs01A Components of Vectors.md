@@ -14,9 +14,9 @@ tags: mechanics_physics, physics, vectors, university
 University Physics, Sears and Zemansky; Chapter 1.8.
 
 ## **Quote**
-$\frac{Ax}{A} = \cos\theta$ and $\frac{Ay}{A} = \sin\theta$
+> $\frac{Ax}{A} = \cos\theta$ and $\frac{Ay}{A} = \sin\theta$
  
-$Ax = A \cos\theta$ and $Ay = A \sin\theta$
+> $Ax = A \cos\theta$ and $Ay = A \sin\theta$
 
 ## **Summary**
 You calculate a *Component of a Vector* when you project the vector on an axis, for example, you can find the components x and y of a vector in a two dimension system. you also can obtain the direction of the vector with the components.

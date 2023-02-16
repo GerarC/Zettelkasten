@@ -6,7 +6,7 @@ date: 14/02/2023
 type: 1 #evergreen
 topics: Mechanics Physics, University
 alias: MPU03, Projectile Motion
-tags: mechanics_physics, physics
+tags: mechanics_physics, physics, mrua
 code: MPU03
 ---
 # MPU03 Projectile Motion
@@ -27,7 +27,7 @@ code: MPU03
 To solve Projectile Motion Problems you can use the [[MPU00C Base to Solve Physics Problems|I SEE]] method.
 
 # Links
-<<[[MPU02E Free Falling|MPU02E]]|[[MPU03A Circular Motion|MPU03A]]>>
+<<[[MPU02E Free Falling|MPU02E]]|[[MPU03A Uniform Circular Motion|MPU03A]]>>
 
 **Related notes:**
 - [[MPU01 Vector|Vector]]

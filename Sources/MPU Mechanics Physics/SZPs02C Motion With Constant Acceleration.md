@@ -1,7 +1,7 @@
 ---
 title: University Physics
 date: 14/02/2023
-source: chapter 1.10
+source: chapter 2.4
 source_type: book 
 author: Sears, Zemansky
 type: 2 #sourcenote
@@ -14,18 +14,13 @@ tags: mechanics_physics, physics, university
 University Physics, Sears and Zemansky; Chapter 2.4.
 
 ## **Quote**
-The simplest kind of accelerated motion is straight-line motion with constant acceleration. In this case the velocity changes at the same rate throughout the motion. As an example, a falling body has a constant acceleration if the effects of the air are not important.
+> The simplest kind of accelerated motion is straight-line motion with constant acceleration. In this case the velocity changes at the same rate throughout the motion. As an example, a falling body has a constant acceleration if the effects of the air are not important.
 
-$a_x = \frac{v_{2x} - v_{1x}}{t_2 - t_2}$
-
+> $a_x = \frac{v_{2x} - v_{1x}}{t_2 - t_2}$
 $v_x = v_{0x} + a_xt$
-
 $x = x_0 + v_{0x}t + \frac{1}{2}a_xt^2$
-
 $t = \frac{v_x - v_{0x}}{a_x}$
-
 $v_x^2 = v_{0x}^2 + 2a_x(\Delta x)$
-
 $\Delta x = \frac{1}{2}(v_{0x} + v_x)t$
 
 ![[MPS Problem Solving Strategy 2.1.png]]

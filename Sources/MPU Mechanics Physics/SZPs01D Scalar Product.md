@@ -14,9 +14,9 @@ tags: unfinished, mechanics_physics, physics, vectors, university
 University Physics, Sears and Zemansky; Chapter 1.10.
 
 ## **Quote**
-We denote the scalar product of two vectors $\vec{A}$ and $\vec{B}$ by $\vec{A}\cdot\vec{B}$. Because of this notation, the scalar product is also called the dot product. Although $\vec{A}$ and $\vec{B}$ are vectors, the quantity $\vec{A}\cdot\vec{B}$ is a scalar.  
+> We denote the scalar product of two vectors $\vec{A}$ and $\vec{B}$ by $\vec{A}\cdot\vec{B}$. Because of this notation, the scalar product is also called the dot product. Although $\vec{A}$ and $\vec{B}$ are vectors, the quantity $\vec{A}\cdot\vec{B}$ is a scalar.  
 
-$\vec{A}\cdot\vec{B} = AB\cos\phi = \vec{A}\vec{B}\cos\phi$
+> $\vec{A}\cdot\vec{B} = AB\cos\phi = \vec{A}\vec{B}\cos\phi$
 or
 $\vec{A}\cdot\vec{B} = A_xB_x + A_y+B_y + A_zB_z$
 

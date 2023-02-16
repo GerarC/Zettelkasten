@@ -1,7 +1,7 @@
 ---
 title: University Physics
 date: 14/02/2023
-source: chapter 1.8
+source: chapter 3.3
 source_type: book 
 author: Sears, Zemansky
 type: 2 #sourcenote
@@ -13,7 +13,7 @@ tags: mechanics_physics, physics, vectors, university
 University Physics, Sears and Zemansky; Chapter 3.3.
 
 ## **Quote**
-![[MPS Problem Solving Strategy 3.1.png]]
+> ![[MPS Problem Solving Strategy 3.1.png]]
 
 ## **Summary**
 Like with a simple motion with constant Acceleration, you can use the *I SEE* method to solve a problem of *Projectile Motion*.

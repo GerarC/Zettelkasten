@@ -1,5 +1,5 @@
 ---
-reference: "[[PRG00B Coding Style]]"
+reference: "[[CCPs00B Why have coding style]]"
 date: 09/01/2023
 type: 1 #evergreen
 topics: Programming, Clean Code, Code, Good Practices, Software
@@ -14,7 +14,7 @@ Technical debts are very dangerous because they are a silent problem, this can r
 
 # ICC00A/1 Think in a Technical debt
 
-Could be useful to find a [[ICC00A Technical Debts#PRG00A Technical Debts|technical debt]] before it becomes a big problem if you think on two things while you program:
+Could be useful to find a [[ICC00A Technical Debts#ICC00A Technical Debts|technical debt]] before it becomes a big problem if you think on two things while you program:
 - The Problem I have in this moment is the result of a unpaid debt?
 - I'm creating problems to the team or even myself in this moment?
 

@@ -3,7 +3,7 @@ reference: "[[SZPs03 Position Vector]]"
 date: 14/02/2023
 type: 1 #evergreen
 topics: Mechanics Physics, University
-alias: MPU02, Position Vector
+alias: MPU02, Position Vector, Position
 tags: mechanics_physics, physics, vector
 code: MPU02
 ---

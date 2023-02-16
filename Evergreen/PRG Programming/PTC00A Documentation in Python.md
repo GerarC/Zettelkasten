@@ -1,5 +1,5 @@
 ---
-reference: "[[PRG00C Importance of Documentation]]"
+reference: "[[CCPs00C Why documentation is important]]"
 date: 23/01/2023
 type: 1 #evergreen
 topics: Programming, Clean Code, Code, Good Practices, Software, Python

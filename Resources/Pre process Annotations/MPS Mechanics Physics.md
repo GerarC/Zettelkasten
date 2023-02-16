@@ -169,8 +169,32 @@ $\tan\alpha = \frac{v_y}{v_x}$
 ![[MPS Problem Solving Strategy 3.1.png]]
 
 ### 3.4 Motion in a Circle
+When a particle moves along a curved path, the direction of its velocity changes. As we saw in Section 3.2, this means that the particle must have a component of acceleration perpendicular to the path, even if its speed is constant (see Fig. 3.11b).
+
+**Uniform Circular Motion**
+When a particle moves in a circle with constant speed, the motion is called uniform circular motion.
+
+$a_{rad} = a_n = \frac{v^2}{R}$
+
+$v = \frac{2\pi R}{T}$
+$a_{rad} = \frac{4\pi^2R}{T^2}$
+
+the total acceleration is:
+$a = \sqrt{a_{rad}^2 + a_{tan}^2}$
+
+**Nonuniform Circular Motion**
+In nonuniform circular motion there is also a component of acceleration that is parallel to the instantaneous velocity. Here we call this component $a_{tan}$  
 
 ### 3.5 Relative Velocity
+Relative velocity: When a body P moves relative to a body (or reference frame) $B$, and $B$ moves relative to a body (or reference frame) $A$, we denote the velocity of $P$ relative to $B$ by $\vec{v}_{P/B}$, the velocity of $P$ relative to $A$ by $\vec{v}_{P/A}$, and the velocity of $B$ relative to $A$ by $\vec{v}_{B/A}$. If these velocities are all along the same line, their components along that line are related by Eq. (3.32). More generally, these velocities are related by Eq.
+
+$v_{P/A-x} = v_{P/B-x} + v_{B/A-x}$
+(relative velocity along a line)
+
+$\vec{v}_{P/A} = \vec{v}_{P/B} + \vec{v}_{B/A}$
+(relative velocity in space)
+
+![[Relative Velocity Diagram.png]]
 
 ## 4 Newton's Laws of Motion
 
