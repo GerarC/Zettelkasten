@@ -11,7 +11,7 @@ code: ICC00
 
 Many developers usually think that programming languages are used for communicate with the computers and it is true, but it's not the whole truth. A vital and important function of the languages is allow to the programmers make themselves understood to others. 
 It's also very important to the developer himself 'cause is possible, after a time and without a clean code, he doesn't understand his own code.
-Not having a clean code could implies not recognizing a [[ICC00A Technical Debts#PRG00A Technical Debts|technical debt]] in time. 
+Not having a clean code could implies not recognizing a [[ICC00A Technical Debts#ICC00A Technical Debts|technical debts]] in time. 
 
 # Links
-<<[[ICC00A Technical Debts|PRG00A]]>>
+<<[[ICC00A Technical Debts|ICC00A]]>>

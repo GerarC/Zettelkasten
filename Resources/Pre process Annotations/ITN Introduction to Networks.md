@@ -56,7 +56,6 @@ The four main criteria for choosing network media are these:
 - What is the cost of the media and installation?
 
 # 1.3 Network Representations and Topologies
-
 ## Network Representations
 Network architects and administrators must be able to show what their networks will look like. They need to be able to easily see which components connect to other components, where they will be located, and how they will be connected. Diagrams of networks often use symbols
 
@@ -73,11 +72,9 @@ specialized terminology is used to describe how each of these devices and media 
 
 ## Topology Diagrams
 **Physical Topology Diagrams**
-
 Physical topology diagrams illustrate the physical location of intermediary devices and cable installation, as shown in the figure. You can see that the rooms in which these devices are located are labeled in this physical topology.
 
 **Logical Topology Diagrams**
-
 Logical topology diagrams illustrate devices, ports, and the addressing scheme of the network, as shown in the figure. You can see which end devices are connected to which intermediary devices and what media is being used.
 
 # 1.4 Common Types of Networks
@@ -92,11 +89,11 @@ Network infrastructures vary greatly in terms of:
 
 The two most common types of network infrastructures are Local Area Networks (LANs), and Wide Area Networks (WANs). A LAN is a network infrastructure that provides access to users and end devices in a small geographical area. A LAN is typically used in a department within an enterprise, a home, or a small business network. A WAN is a network infrastructure that provides access to other networks over a wide geographical area, which is typically owned and managed by a larger corporation or a telecommunications service provider.
 
-**LANs**
-A LAN is a network infrastructure that spans a small geographical area. LANs have specific characteristics:
--   LANs interconnect end devices in a limited area such as a home, school, office building, or campus.
--   A LAN is usually administered by a single organization or individual. Administrative control is enforced at the network level and governs the security and access control policies.
--   LANs provide high-speed bandwidth to internal end devices and intermediary devices
+**lans**
+a lan is a network infrastructure that spans a small geographical area. lans have specific characteristics:
+-   lans interconnect end devices in a limited area such as a home, school, office building, or campus.
+-   a lan is usually administered by a single organization or individual. administrative control is enforced at the network level and governs the security and access control policies.
+-   lans provide high-speed bandwidth to internal end devices and intermediary devices
 
 **WANs**
 The figure shows a WAN which interconnects two LANs. A WAN is a network infrastructure that spans a wide geographical area. WANs are typically managed by service providers (SPs) or Internet Service Providers (ISPs).
@@ -121,10 +118,6 @@ An organization may use an extranet to provide secure and safe access to individ
 -   A company that is providing access to outside suppliers and contractors
 -   A hospital that is providing a booking system to doctors so they can make appointments for their patients
 -   A local office of education that is providing budget and personnel information to the schools in its district
-
-The figure illustrates the levels of access that different groups have to a company intranet, a company extranet, and the internet.
-
-A center circle is labeled Intranet and has company only access. Surrounding that is another circle labeled Extranet and is accessible by suppliers, customers, and collaborators. Surrounding that is another circle labeled the Internet and is accessible by the world.
 
 # 1.5 Internet Connections
 ## Home and Small Office Internet Connections
@@ -177,10 +170,6 @@ there are three primary requirements.
 -   **Integrity** - Data integrity assures users that the information has not been altered in transmission, from origin to destination.
 -   **Availability** - Data availability assures users of timely and reliable access to data services for authorized users.
 
-
-
-
-
 # 2.1 Cisco IOS Access
 ## Operating Systems
 All end devices and network devices require an operating system (OS). As shown in the figure, the portion of the OS that interacts directly with computer hardware is known as the kernel. The portion that interfaces with applications and the user is known as the shell. The user can interact with the shell using a command-line interface (CLI) or a graphical user interface (GUI).
@@ -213,12 +202,6 @@ A CLI-based network operating system (e.g., the Cisco IOS on a switch or router)
 A switch will forward traffic by default and does not need to be explicitly configured to operate. For example, two configured hosts connected to the same new switch would be able to communicate.
 
 ## Access Methods
-
-|**Method**|**Description**|
-|:--------:|:------------- |
-|**Console**|This is a physical management port that provides out-of-band access to a Cisco device. Out-of-band access refers to access via a dedicated management channel that is used for device maintenance purposes only. The advantage of using a console port is that the device is accessible even if no networking services are configured, such as performing the initial configuration. A computer running terminal emulation software and a special console cable to connect to the device are required for a console connection.|
-|**Secure Shell (SSH)**|SSH is an in-band and recommended method for remotely establishing a secure CLI connection, through a virtual interface, over a network. Unlike a console connection, SSH connections require active networking services on the device, including an active interface configured with an address. Most versions of Cisco IOS include an SSH server and an SSH client that can be used to establish SSH sessions with other devices.|
-|**Telnet**|Telnet is an insecure, in-band method of remotely establishing a CLI session, through a virtual interface, over a network. Unlike SSH, Telnet does not provide a secure, encrypted connection and should only be used in a lab environment. User authentication, passwords, and commands are sent over the network in plaintext. The best practice is to use SSH instead of Telnet. Cisco IOS includes both a Telnet server and Telnet client.|
 
 **Note:** Some devices, such as routers, may also support a legacy auxiliary port that was used to establish a CLI session remotely over a telephone connection using a modem. Similar to a console connection, the AUX port is out-of-band and does not require networking services to be configured or available.
 
@@ -262,24 +245,6 @@ A Cisco IOS device supports many commands. Each IOS command has a specific forma
 ## Hot Keys and Shortcuts
 Commands and keywords can be shortened to the minimum number of characters that identify a unique selection. For example, the **configure** command can be shortened to **conf** because **configure** is the only command that begins with **conf**. An even shorter version, **con**, will not work because more than one command begins with **con**. Keywords can also be shortened.
 
-|**Keystroke**|**Description**|
-|:----------- |:------------- |
-|**Tab**|Completes a partial command name entry.|
-|**Backspace**|Erases the character to the left of the cursor.|
-|**Ctrl+D**|Erases the character at the cursor.|
-|**Ctrl+K**|Erases all characters from the cursor to the end of the command line.|
-|**Esc D**|Erases all characters from the cursor to the end of the word.|
-|**Ctrl+U** or **Ctrl+X**|Erases all characters from the cursor back to the beginning of the command line.|
-|**Ctrl+W**|Erases the word to the left of the cursor.|
-|**Ctrl+A**|Moves the cursor to the beginning of the line.|
-|**Left Arrow**or **Ctrl+B**|Moves the cursor one character to the left.|
-|**Esc B**|Moves the cursor back one word to the left.|
-|**Esc F**|Moves the cursor forward one word to the right.|
-|**Right Arrow**or **Ctrl+F**|Moves the cursor one character to the right.|
-|**Ctrl+E**|Moves the cursor to the end of command line.|
-|**Up Arrow**or **Ctrl+P**|Recalls the previous command in the history buffer, beginning with the most recent command.|
-|**Down Arrow**or **Ctrl+N**|Goes to the next line in the the history buffer.|
-|**Ctrl+R** or **Ctrl+I** or **Ctrl+L**|Redisplays the system prompt and command line after a console message is received.|
 
 # 2.4 Basic Device Configuration
 ## Device Names

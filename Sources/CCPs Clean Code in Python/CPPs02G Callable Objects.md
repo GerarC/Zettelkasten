@@ -5,7 +5,7 @@ source: [chapter 2, page 112]
 author: Mariano Anaya
 type: 2 #sourcenote
 topics: Programming, Python, Pythonic Code
-tags: programming, python, pythonic_code
+tags: unfinished, programming, python, pythonic_code
 ---
 # CPPs02G Callable Objects
 

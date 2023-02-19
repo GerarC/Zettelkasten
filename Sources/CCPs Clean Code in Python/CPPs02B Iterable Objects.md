@@ -5,7 +5,7 @@ source: [chapter 2, page 96]
 author: Mariano Anaya
 type: 2 #sourcenote
 topics: Programming, Python, Pythonic Code
-tags: programming, python, pythonic_code, iterable
+tags: unfinished, programming, python, pythonic_code, iterable
 ---
 # CPPs02B Iterable Objects
 

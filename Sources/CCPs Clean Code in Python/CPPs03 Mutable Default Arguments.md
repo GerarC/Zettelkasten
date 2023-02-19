@@ -5,7 +5,7 @@ source: [chapter 2, pages: [118, 119]]
 author: Mariano Anaya
 type: 2 #sourcenote
 topics: Programming, Python, Pythonic Code
-tags: programming, python, pythonic_code
+tags: unfinished, programming, python, pythonic_code
 ---
 # CPPs03 Mutable Default Arguments
 
