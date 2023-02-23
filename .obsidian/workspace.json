@@ -6,6 +6,7 @@
       {
         "id": "5963f64c92c487bf",
         "type": "tabs",
+        "dimension": 51.55737704918033,
         "children": [
           {
             "id": "ef0f823ca97870b6",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen/PRG Programming/ICC00 Importance of Clean Code.md",
+                "file": "Templates/Source Note.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -25,6 +26,7 @@
       {
         "id": "891ca03f3ca8e6b4",
         "type": "tabs",
+        "dimension": 48.442622950819676,
         "children": [
           {
             "id": "2bd329fd8b6269b7",
@@ -32,14 +34,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/CAL Communications and Lab/ITNs00 Host.md",
+                "file": "Source/CAL Communications and Lab/ITNs08 Configuration Files.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
+          },
+          {
+            "id": "a7211c0af87f9541",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "60f865c594493418",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Evergreen/PRG Programming/ICC00 Importance of Clean Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +140,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Evergreen/PRG Programming/ICC00 Importance of Clean Code.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -162,9 +184,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Evergreen/PRG Programming/ICC00 Importance of Clean Code.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,7 +193,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evergreen/PRG Programming/ICC00 Importance of Clean Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,17 +220,17 @@
       "templates:Insert template": false
     }
   },
-  "active": "ef0f823ca97870b6",
+  "active": "60f865c594493418",
   "lastOpenFiles": [
-    "Sources/CAL Communications and Lab/ITNs00 Host.md",
-    "Sources/CAL Communications and Lab/ITNs00A Peer to Peer.md",
-    "Sources/CAL Communications and Lab/ITNs00B Intermediary Devices.md",
-    "Sources/CAL Communications and Lab/ITNs09D Verify Connectivity.md",
-    "Resources/Pre process Annotations/ITN Introduction to Networks.md",
-    "Sources/CAL Communications and Lab/ITNs09C Switch Virtual Interface Configuration.md",
-    "Sources/CAL Communications and Lab/ITNs10 Devices in a Bubble.md",
-    "Sources/CAL Communications and Lab/ITNs09B Configure IP Addressing.md",
-    "Sources/CAL Communications and Lab/ITNs09A Interfaces and Ports.md",
-    "Sources/CAL Communications and Lab/ITNs09 IP Addresses.md"
+    "Source/MPU Mechanics Physics/SZPs03G Relative Velocity.md",
+    "Source/CAL Communications and Lab/ITNs10 Devices in a Bubble.md",
+    "Templates/Source Note.md",
+    "Templates/Index.md",
+    "Source/CAL Communications and Lab/ITNs09C Switch Virtual Interface Configuration.md",
+    "Source/CAL Communications and Lab/ITNs09A Interfaces and Ports.md",
+    "Source/CAL Communications and Lab/ITNs09B Configure IP Addressing.md",
+    "Source/CAL Communications and Lab/ITNs09D Verify Connectivity.md",
+    "Source/CAL Communications and Lab/ITNs09 IP Addresses.md",
+    "Source/CAL Communications and Lab/ITNs08B Capture Configuration to a text File.md"
   ]
 }

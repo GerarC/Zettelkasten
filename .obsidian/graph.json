@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "line:(type: 1)",
+  "search": "",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
-  "showOrphans": false,
-  "collapse-color-groups": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#unfinished",
@@ -15,28 +15,28 @@
       }
     },
     {
-      "query": "path:Sources",
+      "query": "path:Source",
       "color": {
         "a": 1,
         "rgb": 4129023
       }
     },
     {
-      "query": "path:Resources",
+      "query": "path:Resource",
       "color": {
         "a": 1,
         "rgb": 16744448
       }
     },
     {
-      "query": "tag:#mechanics_physics",
+      "query": "tag:#mechanics_physics path:Evergreen",
       "color": {
         "a": 1,
         "rgb": 15011456
       }
     },
     {
-      "query": "",
+      "query": "line:(type: 0)",
       "color": {
         "a": 1,
         "rgb": 15618997
@@ -63,10 +63,10 @@
   "nodeSizeMultiplier": 1.80989583333333,
   "lineSizeMultiplier": 3.03489583333333,
   "collapse-forces": false,
-  "centerStrength": 1,
+  "centerStrength": 0.57421875,
   "repelStrength": 20,
   "linkStrength": 0.796875,
   "linkDistance": 30,
-  "scale": 0.6102568808460872,
-  "close": false
+  "scale": 0.14394220444803513,
+  "close": true
 }

@@ -13,3 +13,6 @@ An **Uniform Circular Motion** is when a particle moves along a circle with cons
 
 # Links
 <<[[MPU03 Projectile Motion|MPU03]]|[[MPU03B Normal Acceleration|MPU03B]]>>
+
+**Related notes:**
+- [[MPU03C Nonuniform Circular Motion|Nonuniform Circular Motion]]

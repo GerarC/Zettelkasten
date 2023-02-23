@@ -22,5 +22,6 @@
     "Templates/",
     "Resources/",
     "README"
-  ]
+  ],
+  "legacyEditor": false
 }

@@ -16,4 +16,4 @@ tags: unfinished,
 ## **Quote**
 
 ## **Summary**
-<!-- Resume of the idea with the context of the quote. -->
+<!-- try to apply the method of the question and the answer, if there is more than one idea, then make a single note or sub note from each idea -->
