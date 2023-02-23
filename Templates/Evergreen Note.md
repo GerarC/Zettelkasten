@@ -3,9 +3,9 @@ reference: "[[]]"
 date: {{date}}
 type: 1 #evergreen
 topics: 
-alias: 
+alias: {{title}}
 tags: 
-code: 
+code: {{title}}
 ---
 # {{title}}
 

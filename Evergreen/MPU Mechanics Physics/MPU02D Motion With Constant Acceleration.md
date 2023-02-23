@@ -9,7 +9,7 @@ code: MPU02D
 ---
 # MPU02D Motion With Constant Acceleration
 
-**Motion with Constant Acceleration** is the most basic king of [[MPU02A Displacement|Displacement]] where the [[MPU02C Acceleration#MPU03C Acceleration|Acceleration]] acts. In this type of movement the velocity change [[MPU02B Velocity|Velocity]] change at the same rate. ^1
+**Motion with Constant Acceleration** is the most basic kind of [[MPU02A Displacement|Displacement]] where the [[MPU02C Acceleration#MPU03C Acceleration|Acceleration]] acts. In this type of movement the velocity change [[MPU02B Velocity|Velocity]] change at the same rate. ^1
 
 |**Function**|**Equation**|
 |:----------:|:----------:|

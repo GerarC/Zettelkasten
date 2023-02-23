@@ -6,7 +6,7 @@ source_type: course
 author: Cisco
 type: 2 #sourcenote
 topics: Networking, University
-tags: networking
+tags: network
 ---
 # ITNs09B Configure IP Addressing
 

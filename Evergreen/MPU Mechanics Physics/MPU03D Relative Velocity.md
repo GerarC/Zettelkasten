@@ -9,9 +9,13 @@ code: MPU03D
 ---
 # MPU03D Relative Velocity
 
+The relative [[MPU02B Velocity|Velocity]] is when a object moves with a velocity in a system, but for an external observer has a different velocity. ^1
+
+The equation that describes this type of velocity is $\vec{v}_{P/O} = \vec{v}_{P/A} + \vec{v}_{B/O}$. It means, the velocity of a body P relative to an Observer O (or body) is equal to the velocity observed by O of the body A plus the velocity of P relative to A. ^2
 
 # Links
 <<[[MPU03C Nonuniform Circular Motion|MPU03C]]|[[]]>>
 
 **Related notes:**
-- [[]] 
+- [[MPU01 Vector|Vectors]]
+- [[MPU01B Vector Addition|Vector Addition]]

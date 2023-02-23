@@ -6,7 +6,7 @@ source_type: book
 author: Sears, Zemansky
 type: 2 #sourcenote
 topics: Mechanics Physics, Physics
-tags: unfinished, mechanics_physics, physics
+tags: mechanics_physics, physics
 ---
 # SZPs03G Relative Velocity
 
@@ -25,4 +25,8 @@ University Physics, Sears and Zemansky; Chapter 3.5.
 > ![[Relative Velocity Diagram.png]]
 
 ## **Summary**
-<!-- Resume of the idea with the context of the quote. -->
+Relative Velocity:
+- a body P moves relative a body A -> $\vec{v}_{P/A}$ (P of Plane and A of air in this case).
+- the body A moves relative to an Observer O(other body) -> $\vec{v}_{A/O}$.
+- if the velocities $\vec{v}_{P/O}$ and $\vec{v}_{P/A}$ are in the along the same line, their components on that line are related by $v_{P/O-x} = v_{P/A-x} + v_{A/O-x}$
+- the general equation is $\vec{v}_{P/O} = \vec{v}_{P/A} + \vec{v}_{B/O}$

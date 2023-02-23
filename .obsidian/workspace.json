@@ -4,17 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5963f64c92c487bf",
+        "id": "1a7c1bd295d78ef6",
         "type": "tabs",
-        "dimension": 51.55737704918033,
         "children": [
           {
-            "id": "ef0f823ca97870b6",
+            "id": "ef41de2211caf2b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Source Note.md",
+                "file": "Evergreen/ITN Introduction To Networks/ITN02 LAN.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -24,46 +23,23 @@
         ]
       },
       {
-        "id": "891ca03f3ca8e6b4",
+        "id": "216445e872958fd9",
         "type": "tabs",
-        "dimension": 48.442622950819676,
         "children": [
           {
-            "id": "2bd329fd8b6269b7",
+            "id": "c7740ddf17209c8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Source/CAL Communications and Lab/ITNs08 Configuration Files.md",
+                "file": "Sources/CAL Communications and Lab/ITNs02A WANs.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
-          },
-          {
-            "id": "a7211c0af87f9541",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "60f865c594493418",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#network",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Evergreen/ITN Introduction To Networks/ITN02 LAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,6 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Evergreen/ITN Introduction To Networks/ITN02 LAN.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -184,7 +162,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Evergreen/ITN Introduction To Networks/ITN02 LAN.md"
+              }
             }
           },
           {
@@ -193,6 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Evergreen/ITN Introduction To Networks/ITN02 LAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,17 +201,33 @@
       "templates:Insert template": false
     }
   },
-  "active": "60f865c594493418",
+  "active": "ef41de2211caf2b9",
   "lastOpenFiles": [
-    "Source/MPU Mechanics Physics/SZPs03G Relative Velocity.md",
-    "Source/CAL Communications and Lab/ITNs10 Devices in a Bubble.md",
-    "Templates/Source Note.md",
-    "Templates/Index.md",
-    "Source/CAL Communications and Lab/ITNs09C Switch Virtual Interface Configuration.md",
-    "Source/CAL Communications and Lab/ITNs09A Interfaces and Ports.md",
-    "Source/CAL Communications and Lab/ITNs09B Configure IP Addressing.md",
-    "Source/CAL Communications and Lab/ITNs09D Verify Connectivity.md",
-    "Source/CAL Communications and Lab/ITNs09 IP Addresses.md",
-    "Source/CAL Communications and Lab/ITNs08B Capture Configuration to a text File.md"
+    "Evergreen/ITN Introduction To Networks/ITN02A WAN.md",
+    "Sources/CAL Communications and Lab/ITNs02A WANs.md",
+    "Sources/CAL Communications and Lab/ITNs02 LANs.md",
+    "Evergreen/ITN Introduction To Networks/ITN02 LAN.md",
+    "Sources/CAL Communications and Lab/ITNs01B Logical Topology Diagrams.md",
+    "Evergreen/ITN Introduction To Networks/ITN01B Logical Topology Diagram.md",
+    "Evergreen/ITN Introduction To Networks/ITN00C Network Media.md",
+    "Indexes/First Partial Exam of Mechanics.md",
+    "Evergreen/ITN Introduction To Networks/ITN00 Host.md",
+    "Evergreen/ITN Introduction To Networks/ITN02B Intranet.md",
+    "Evergreen/ITN Introduction To Networks/ITN01 Network Representation.md",
+    "Evergreen/ITN Introduction To Networks/ITN01A Physical Topology Diagram.md",
+    "Evergreen/ITN Introduction To Networks/ITN04 Operating System.md",
+    "Evergreen/ITN Introduction To Networks/ITN03D Network Security.md",
+    "Evergreen/ITN Introduction To Networks/ITN04A CLI.md",
+    "Evergreen/ITN Introduction To Networks/ITN04B GUI.md",
+    "Evergreen/ITN Introduction To Networks/ITN04C Cisco Device Access Methods.md",
+    "Evergreen/ITN Introduction To Networks/ITN05 User EXEC Mode.md",
+    "Evergreen/ITN Introduction To Networks/ITN05A Privileged EXEC Mode.md",
+    "Evergreen/ITN Introduction To Networks/ITN05B Global Configuration Mode.md",
+    "Evergreen/ITN Introduction To Networks/ITN05C Subconfiguration Mode.md",
+    "Evergreen/ITN Introduction To Networks/ITN06 Network Device Name.md",
+    "Evergreen/ITN Introduction To Networks/ITN08 Running Configuration.md",
+    "Evergreen/ITN Introduction To Networks/ITN08A Startup Configuration.md",
+    "Evergreen/ITN Introduction To Networks/ITN08B Capture Configuration to a Text File.md",
+    "Evergreen/ITN Introduction To Networks/ITN09 IP Address.md"
   ]
 }

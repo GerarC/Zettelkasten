@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "",
-  "showTags": true,
-  "showAttachments": true,
-  "hideUnresolved": true,
-  "showOrphans": true,
-  "collapse-color-groups": true,
+  "search": "path:Evergreen",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#unfinished",
@@ -15,14 +15,14 @@
       }
     },
     {
-      "query": "path:Source",
+      "query": "path:Sources",
       "color": {
         "a": 1,
         "rgb": 4129023
       }
     },
     {
-      "query": "path:Resource",
+      "query": "path:Resources",
       "color": {
         "a": 1,
         "rgb": 16744448
@@ -43,7 +43,7 @@
       }
     },
     {
-      "query": "tag:#networking",
+      "query": "tag:#network",
       "color": {
         "a": 1,
         "rgb": 14789889
@@ -63,10 +63,10 @@
   "nodeSizeMultiplier": 1.80989583333333,
   "lineSizeMultiplier": 3.03489583333333,
   "collapse-forces": false,
-  "centerStrength": 0.57421875,
+  "centerStrength": 0.938802083333333,
   "repelStrength": 20,
-  "linkStrength": 0.796875,
+  "linkStrength": 0.897135416666667,
   "linkDistance": 30,
-  "scale": 0.14394220444803513,
+  "scale": 0.22650334078197426,
   "close": true
 }
