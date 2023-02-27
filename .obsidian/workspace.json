@@ -4,35 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1a7c1bd295d78ef6",
+        "id": "b356e14f42170a12",
         "type": "tabs",
         "children": [
           {
-            "id": "ef41de2211caf2b9",
+            "id": "aa964624f3e4edcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen/ITN Introduction To Networks/ITN02 LAN.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "216445e872958fd9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c7740ddf17209c8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sources/CAL Communications and Lab/ITNs02A WANs.md",
+                "file": "Indexes/First Partial Exam of Mechanics.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -89,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 311.5
   },
   "right": {
     "id": "3afbfa8621022cbf",
@@ -105,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Evergreen/ITN Introduction To Networks/ITN02 LAN.md",
+                "file": "Indexes/First Partial Exam of Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Evergreen/ITN Introduction To Networks/ITN02 LAN.md",
+                "file": "Indexes/First Partial Exam of Mechanics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -163,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evergreen/ITN Introduction To Networks/ITN02 LAN.md"
+                "file": "Indexes/First Partial Exam of Mechanics.md"
               }
             }
           },
@@ -173,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evergreen/ITN Introduction To Networks/ITN02 LAN.md",
+                "file": "Indexes/First Partial Exam of Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,33 +182,36 @@
       "templates:Insert template": false
     }
   },
-  "active": "ef41de2211caf2b9",
+  "active": "aa964624f3e4edcc",
   "lastOpenFiles": [
-    "Evergreen/ITN Introduction To Networks/ITN02A WAN.md",
-    "Sources/CAL Communications and Lab/ITNs02A WANs.md",
-    "Sources/CAL Communications and Lab/ITNs02 LANs.md",
-    "Evergreen/ITN Introduction To Networks/ITN02 LAN.md",
-    "Sources/CAL Communications and Lab/ITNs01B Logical Topology Diagrams.md",
-    "Evergreen/ITN Introduction To Networks/ITN01B Logical Topology Diagram.md",
-    "Evergreen/ITN Introduction To Networks/ITN00C Network Media.md",
-    "Indexes/First Partial Exam of Mechanics.md",
-    "Evergreen/ITN Introduction To Networks/ITN00 Host.md",
-    "Evergreen/ITN Introduction To Networks/ITN02B Intranet.md",
-    "Evergreen/ITN Introduction To Networks/ITN01 Network Representation.md",
-    "Evergreen/ITN Introduction To Networks/ITN01A Physical Topology Diagram.md",
-    "Evergreen/ITN Introduction To Networks/ITN04 Operating System.md",
-    "Evergreen/ITN Introduction To Networks/ITN03D Network Security.md",
-    "Evergreen/ITN Introduction To Networks/ITN04A CLI.md",
-    "Evergreen/ITN Introduction To Networks/ITN04B GUI.md",
-    "Evergreen/ITN Introduction To Networks/ITN04C Cisco Device Access Methods.md",
-    "Evergreen/ITN Introduction To Networks/ITN05 User EXEC Mode.md",
-    "Evergreen/ITN Introduction To Networks/ITN05A Privileged EXEC Mode.md",
-    "Evergreen/ITN Introduction To Networks/ITN05B Global Configuration Mode.md",
-    "Evergreen/ITN Introduction To Networks/ITN05C Subconfiguration Mode.md",
-    "Evergreen/ITN Introduction To Networks/ITN06 Network Device Name.md",
-    "Evergreen/ITN Introduction To Networks/ITN08 Running Configuration.md",
-    "Evergreen/ITN Introduction To Networks/ITN08A Startup Configuration.md",
-    "Evergreen/ITN Introduction To Networks/ITN08B Capture Configuration to a Text File.md",
-    "Evergreen/ITN Introduction To Networks/ITN09 IP Address.md"
+    "Sources/CAL Communications and Lab/ITNs03A Fault Tolerance.md",
+    "Evergreen/NTW Networking/ITN03A Fault Tolerance.md",
+    "Sources/CAL Communications and Lab/ITNs03 Network Architecture.md",
+    "Evergreen/NTW Networking/ITN03 Network Reliability.md",
+    "Sources/CAL Communications and Lab/ITNs02D The Internet.md",
+    "Evergreen/NTW Networking/ITN02D Internet.md",
+    "Sources/CAL Communications and Lab/ITNs02C Extranet.md",
+    "Evergreen/NTW Networking/ITN02C Extranet.md",
+    "Sources/CAL Communications and Lab/ITNs02B Intranets.md",
+    "Evergreen/NTW Networking/ITN02B Intranet.md",
+    "Evergreen/NTW Networking/ITN02A WAN.md",
+    "Evergreen/NTW Networking/ITN02 LAN.md",
+    "Evergreen/NTW Networking/ITN01B Logical Topology Diagram.md",
+    "Resources/Pre process Annotations/ITN Introduction to Networks.md",
+    "Evergreen/MPU Mechanics Physics/MPU02B Velocity.md",
+    "Templates/Index.md",
+    "Templates/Evergreen Note.md",
+    "Resources/FNI Fast Ideas.md",
+    "Sources/CAL Communications and Lab/ITNs09A Interfaces and Ports.md",
+    "Sources/CAL Communications and Lab/ITNs07B Password Configuration.md",
+    "Sources/CAL Communications and Lab/ITNs09B Configure IP Addressing.md",
+    "Sources/CAL Communications and Lab/ITNs00B Intermediary Devices.md",
+    "Evergreen/NTW Networking/ITN01 Network Representation.md",
+    "Evergreen/NTW Networking/ITN00 Host.md",
+    "Evergreen/NTW Networking/ITN01A Physical Topology Diagram.md",
+    "Evergreen/NTW Networking/ITN00C Network Media.md",
+    "Canvas/Untitled.canvas",
+    "Untitled",
+    "Canvas"
   ]
 }

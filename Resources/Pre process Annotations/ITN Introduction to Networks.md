@@ -390,3 +390,12 @@ In the same way that you use commands and utilities like **ipconfig** to verify 
 ## Test End-to-End
 The **ping** command can be used to test connectivity to another device on the network or a website on the internet.
 # 3.1 The Rules
+## Network Protocol Requirements
+The protocols that are used in network communications share many of these fundamental traits. In addition to identifying the source and destination, computer and network protocols define the details of how a message is transmitted across a network. Common computer protocols include the following requirements:
+
+-   Message encoding
+-   Message formatting and encapsulation
+-   Message size
+-   Message timing
+-   Message delivery options
+

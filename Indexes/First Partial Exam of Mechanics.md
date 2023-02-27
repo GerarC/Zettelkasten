@@ -1,12 +1,11 @@
 ---
-topics: 
+topics: Mechanics physics
 date: 22/02/2023
 type: 0 #Index
-lias: First Partial Exam of Mechanics
+alias: First Partial Exam of Mechanics
 tags: mechanics_physics
 ---
 # First Partial Exam of Mechanics
-
 ## Needed Equations
 
 ### MRUA and Free Falling
