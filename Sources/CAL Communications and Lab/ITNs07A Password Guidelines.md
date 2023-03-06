@@ -25,4 +25,4 @@ Introduction to Networking, Cisco; Lesson 2.4.
 ## **Summary**
 To limit who access to the *Network device* you need to set a password to the all the available accessing modes since user EXEC mode until remote accessing modes.
 
-A good password must have more than eight chars, use a combination of lower and uppercase letters, number and special chars; and don't use common words. Also you shouldn't use the same password for all devon't use common words. Also you shouldn't use the same password for all devices.
+A good password must have more than eight chars, use a combination of lower and uppercase letters, number and special chars; and don't use common words. Also you shouldn't use the same password for all devices.

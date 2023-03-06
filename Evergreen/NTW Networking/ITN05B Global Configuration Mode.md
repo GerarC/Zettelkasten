@@ -11,9 +11,9 @@ code: ITN05B
 ---
 # ITN05B Global Configuration Mode
 
+To configure [[ITN00B Intermediary Device|Cisco Devices]] the user have to access to the global configuration mode, this mode is identified by a prompt that ends with `(config)#`. It lets you to enter interface and line subconfiguration modes. ^1
+
+To access it from the [[ITN05A Privileged EXEC Mode|Privileged EXEC Mode]] use the `configure terminal` command. To exit from it use `exit` mode. ^2
 
 # Links
 <<[[ITN05A Privileged EXEC Mode|ITN05A]]|[[ITN05C Subconfiguration Mode|ITN05C]]>>
-
-**Related notes:**
-- [[]] 

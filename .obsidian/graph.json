@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
-  "search": "path:Evergreen",
-  "showTags": false,
+  "search": "",
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
@@ -67,6 +67,6 @@
   "repelStrength": 20,
   "linkStrength": 0.897135416666667,
   "linkDistance": 30,
-  "scale": 0.5743491365569507,
+  "scale": 0.18614164998971966,
   "close": true
 }

@@ -6,7 +6,10 @@ alias: First Partial Exam of Mechanics
 tags: mechanics_physics
 ---
 # First Partial Exam of Mechanics
-## Needed Equations
+## Needed things
+
+### Vectors
+![[MPU01B Vector Addition#MPU01B Vector Addition]]
 
 ### MRUA and Free Falling
 ![[MPU02D Motion With Constant Acceleration#^2]]

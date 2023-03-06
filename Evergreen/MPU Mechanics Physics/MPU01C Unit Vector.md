@@ -9,7 +9,7 @@ code: MPU01C
 ---
 # MPU01C Unit Vector
 
-A **Unit Vector** is a [[MPU01 Vector|Vector]] with *Magnitude* $1$ and *Direction* in only one axis. Is often represented by a lower case letter with a hat, like $\hat{k}$. It is so useful to work with [[MPU01A Vector Components#MPU01A Vector Components|Vector Compontents]] because you can obtain any vector multiplying all the unit vectors of the coordinate system with scalars and adding between them.
+A **Unit Vector** is a [[MPU01 Vector|Vector]] with *Magnitude* $1$ and *Direction* in only one axis. Is often represented by a lower case letter with a hat, like $\hat{k}$. It is so useful to work with [[MPU01A Vector Components#MPU01A Vector Components|Vector Components]] because you can obtain any vector multiplying all the unit vectors of the coordinate system with scalars and adding between them.
 
 # MPU01C/1 Unit Vectors in two dime
 

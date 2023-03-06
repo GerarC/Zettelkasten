@@ -27,4 +27,4 @@ Introduction to Networking, Cisco; Lesson 2.1.
 > A switch will forward traffic by default and does not need to be explicitly configured to operate. For example, two configured hosts connected to the same new switch would be able to communicate.
 
 ## **Summary**
-A Cisco CLI based OS is used for, basically, run programs,, configure the system and view outputs in a monitor.
+A Cisco CLI based OS is used for, basically, run programs, configure the system and view outputs in a monitor.

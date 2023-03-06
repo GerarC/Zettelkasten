@@ -194,8 +194,83 @@ $v_{P/A-x} = v_{P/B-x} + v_{B/A-x}$
 $\vec{v}_{P/A} = \vec{v}_{P/B} + \vec{v}_{B/A}$
 (relative velocity in space)
 
-![[Relative Velocity Diagram.png]]
+![[MPU Relative Velocity Diagram.png]]
 
 ## 4 Newton's Laws of Motion
+### 4.1 Force and Interaction
+a force is a push or a pull. A better definition is that a force is an interaction between two bodies or between a body and its environment. That’s why we always refer to the force that one body exerts on a second body.
 
+To describe a force vector $\vec{F}$, we need to describe the direction in which it acts as well as its magnitude, the quantity that describes “how much” or “how hard” the force pushes or pulls. The SI unit of the magnitude of force is the newton, abbreviated N.
 
+**Superposition of Forces**
+When you throw a ball, at least two forces act on it: the push of your hand and the downward pull of gravity. Experiment shows that when two forces $\vec{F}_1$ and $\vec{F}_2$ act at the same time at the same point on a body, the effect on the body’s motion is the same as if a single force $\vec{R}$ were acting equal to the vector sum, or resultant, of the original forces: $\vec{R} = \vec{F}_1 + \vec{F}_2$. More generally, any number of forces applied at a point on a body have the same effect as a single force equal to the vector sum of the forces. This important principle is called superposition of forces.
+
+### Newton's First Law
+**Newton's First Law of Motion:** A body acted on by no net force has a constant velocity (which may be zero) and zero acceleration.
+
+The tendency of a body to keep moving once it is set in motion is called **inertia**.
+
+It’s important to note that the net force is what matters in Newton’s first law. For example, a physics book at rest on a horizontal tabletop has two forces acting on it: an upward supporting force, or normal force, exerted by the tabletop (see Fig. 4.2a) and the downward force of the earth’s gravity (which acts even if the tabletop is elevated above the ground;
+
+When a body is either at rest or moving with constant velocity (in a straight line with constant speed), we say that the body is in equilibrium. For a body to be in equilibrium, it must be acted on by no forces, or by several forces such that their vector sum—that is, the net force—is zero:
+$\sum\vec{F}=0$
+
+The point is that the bus is accelerating with respect to the earth and is not a suitable frame of reference for Newton’s first law. This law is valid in some frames of reference and not valid in others. A frame of reference in which Newton’s first law is valid is called an inertial frame of reference. The earth is at least approximately an inertial frame of reference, but the bus is not. (The earth is not a completely inertial frame, owing to the acceleration associated with its rotation and its motion around the sun. These effects are quite small, however) Because Newton’s first law is used to define what we mean by an inertial frame of reference, it is sometimes called the law of inertia.
+
+### 4.3 Newton's Second Law
+
+**Mass and Force**
+Our results mean that for a given body, the ratio of the magnitude $|\sum\vec{F}|$ of the net force to the magnitude $a=|\vec{a}|$ of the acceleration is constant, regardless of the magnitude of net force. We call this ratio the **inertial mass**, or simply the **mass**, of the body and denote it by *m*. That is,
+$$m = \sum\frac{|\vec{F}|}{a} \quad or \quad |\vec{F}|=ma \quad or \quad a = \frac{|\vec{F}|}{m}$$
+The SI unit of mass is the kilogram. We mentioned in Section 1.3 that the kilogram is officially defined to be the mass of a cylinder of platinum–iridium alloy kept in a vault near Paris (Fig. 1.4). We can use this standard kilogram, along with Eqs. (4.4), to define the newton: One newton is the amount of net force that gives an acceleration of 1 meter per second squared to a body with a mass of 1 kilogram.
+$$1N = 1kg\cdot m/s^2$$
+
+**Stating Newton’s Second Law**
+Newton's Second Law of Motion: If a net external force acts on a body, the body accelerates. The direction of acceleration is the same as the direction of the net force. The mass of the body times the acceleration vector of the body equals the net force vector.
+
+In symbols,
+$\sum\vec{F}=m\vec{a}$
+
+>[!Note]
+The force is also defined as the change of moment in a time.
+$\large\vec{F}=\frac{d\vec{p}}{dt}$
+>**From:**[wikipedia](https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion)
+
+**Using Newton’s Second Law**
+Usually we will use it in component form, with a separate equation for each component of force and the corresponding component of acceleration:
+$\sum F_x = ma_x \qquad \sum F_x = ma_x \qquad \sum F_x = ma_x$
+
+Second, the statement of Newton’s second law refers to external forces. It’s impossible for a body to affect its own motion by exerting a force on itself;
+
+like the first law. Thus it is not valid in the reference frame of any of the accelerating vehicles in Fig. 4.10
+
+### 4.4 Mass and Weight
+Mass characterizes the inertial properties of a body. Mass is what keeps the china on the table when you yank the tablecloth out from under it. The greater the mass, the greater the force needed to cause a given acceleration; this is reflected in Newton’s second law, $\sum\vec{F} = m\vec{a}$.
+Weight, on the other hand, is a force exerted on a body by the pull of the earth. Mass and weight are related: Bodies that have large mass also have large weight. A large stone is hard to throw because of its large mass, and hard to lift off the ground because of its large weight.
+$\vec{w}=m\vec{g}$
+
+### 4.5 Newton's Third Law
+Newton's Third Law of Motion: If body A exerts a force on body B (an “action”), then body B exerts a force on body A (a “reaction”). These two forces have the same magnitude but are opposite in direction. These two forces act on different bodies.
+$\vec{F}_{\text{A on B}} = -\vec{F}_{\text{B on A}}$
+It doesn’t matter whether one body is inanimate
+
+### 4.6 Free-Body Diagrams
+Newton’s three laws of motion contain all the basic principles we need to solve a wide variety of problems in mechanics. These laws are very simple in form, but the process of applying them to specific situations can pose real challenges. In this brief section we’ll point out three key ideas and techniques to use in any problems involving Newton’s laws. You’ll learn others in Chapter 5, which also extends the use of Newton’s laws to cover more complex situations.
+ 1. Newton’s first and second laws apply to a specific body. Whenever you use Newton’s first law, $\sum\vec{F}=0$, for an equilibrium situation or Newton’s second law, $\sum\vec{F}=m\vec{a}$, for a non-equilibrium situation, you must decide at the beginning to which body you are referring. This decision may sound trivial, but it isn’t.
+ 2. Only forces acting on the body matter. The sum $\sum\vec{F}$ includes all the forces that act on the body in question. Hence, once you’ve chosen the body to analyze, you have to identify all the forces acting on it. Don’t confuse the forces acting on a body with the forces exerted by that body on some other body. For example, to analyze a person walking, you would include in $\sum\vec{F}$ the force that the ground exerts on the person as he walks, but not the force that the person exerts on the ground (Fig. 4.28). These forces form an action–reaction pair and are related by Newton’s third law, but only the member of the pair that acts on the body you’re working with goes into $\sum\vec{F}$.
+ 3. Free-body diagrams are essential to help identify the relevant forces. A free-body diagram shows the chosen body by itself, “free” of its surroundings, with vectors drawn to show the magnitudes and directions of all the forces that act on the body. We’ve already shown free-body diagrams in Figs. 4.17, 4.18, 4.20, and 4.25a. Be careful to include all the forces acting on the body, but be equally careful not to include any forces that the body exerts on any other body. In particular, the two forces in an action–reaction pair must never appear in the same free-body diagram because they never act on the same body. Furthermore, never include forces that a body exerts on itself, since these can’t affect the body’s motion.
+
+When a problem involves more than one body, you have to take the problem apart and draw a separate free-body diagram for each body.
+
+## 5 Applying Newton's Law
+### 5.1 Using Newton's First Law: Particles in Equilibrium
+Equilibrium:
+$\sum\vec{F}=0$
+
+![[MPU Problem Solving Strategy 5.1.png]]
+
+### 5.2 Using Newton’s Second Law: Dynamics of Particles
+$\sum\vec{F}=m\vec{a}$
+![[MPU Problem Solving Strategy 5.2.png]]
+
+### 5.3 Friction Forces

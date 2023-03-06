@@ -6,7 +6,7 @@ source_type: book
 author: Sears, Zemansky
 type: 2 #sourcenote
 topics: Mechanics Physics, Physics
-tags: unfinished, mechanics_physics, physics, vector
+tags: mechanics_physics, physics, vector
 ---
 # SZPs01D Scalar Product
 
@@ -21,4 +21,8 @@ or
 $\vec{A}\cdot\vec{B} = A_xB_x + A_y+B_y + A_zB_z$
 
 ## **Summary**
-<!-- Resume of the idea with the context of the quote. -->
+Scalar product:
+- denoted by $\vec{A}\cdot\vec{B}$.
+- $\vec{A}\cdot\vec{B} = A_xB_x + A_yB_y + A_zB_z$
+- $\vec{A}\cdot\vec{B} = AB\cos\phi = \vec{A}\vec{B}\cos\phi$
+- Although $\vec{A}$ and $\vec{B}$ are vectors the result of this product is an scalar.

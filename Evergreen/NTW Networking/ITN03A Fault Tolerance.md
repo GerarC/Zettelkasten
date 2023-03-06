@@ -17,4 +17,5 @@ Other way to implement redundancy is the *Packet Switching*, it means to split t
 <<[[ITN03 Network Reliability|ITN03]]|[[ITN03B Scalability|ITN03B]]>>
 
 **Related notes:**
-- [[ITN00 Host|End Devices]] 
+- [[ITN00 Host|End Devices]]
+- [[ITN03 Network Reliability|Network Reliability]]

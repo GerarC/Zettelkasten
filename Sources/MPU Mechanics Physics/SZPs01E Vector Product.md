@@ -6,7 +6,7 @@ source_type: book
 author: Sears, Zemansky
 type: 2 #sourcenote
 topics: Mechanics Physics, Physics
-tags: unfinished, mechanics_physics, physics, vector
+tags: mechanics_physics, physics, vector
 ---
 # SZPs01E Vector Product
 
@@ -21,4 +21,8 @@ or
 $C_x = A_yB_z - A_zB_y \qquad C_y = A_zB_x - A_xB_z \qquad C_z = A_xB_y - A_yB_x$
 
 ## **Summary**
-<!-- Resume of the idea with the context of the quote. -->
+Vector Product:
+- It's denoted by $\vec{A}\times\vec{B}$.
+- The result is also a Vector
+- $C_x = A_yB_z - A_zB_y \qquad C_y = A_zB_x - A_xB_z \qquad C_z = A_xB_y - A_yB_x$.
+- $C = AB\sin\phi$.

@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b356e14f42170a12",
+        "id": "9818c5e8acbfbe70",
         "type": "tabs",
         "children": [
           {
-            "id": "aa964624f3e4edcc",
+            "id": "5fe7a34c444e84e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indexes/First Partial Exam of Mechanics.md",
-                "mode": "preview",
+                "file": "Resources/Pre process Annotations/MPS Mechanics Physics.md",
+                "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#network",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 380.5,
+    "collapsed": true
   },
   "right": {
     "id": "3afbfa8621022cbf",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indexes/First Partial Exam of Mechanics.md",
+                "file": "Resources/Pre process Annotations/MPS Mechanics Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Indexes/First Partial Exam of Mechanics.md",
+                "file": "Resources/Pre process Annotations/MPS Mechanics Physics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -121,7 +122,7 @@
                   "repelStrength": 19.1216864039932,
                   "linkStrength": 0.785890170344239,
                   "linkDistance": 369,
-                  "scale": 0.20775611984587833,
+                  "scale": 0.17369214807744152,
                   "close": true
                 }
               }
@@ -144,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indexes/First Partial Exam of Mechanics.md"
+                "file": "Resources/Pre process Annotations/MPS Mechanics Physics.md"
               }
             }
           },
@@ -154,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indexes/First Partial Exam of Mechanics.md",
+                "file": "Resources/Pre process Annotations/MPS Mechanics Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,34 +183,36 @@
       "templates:Insert template": false
     }
   },
-  "active": "aa964624f3e4edcc",
+  "active": "5fe7a34c444e84e4",
   "lastOpenFiles": [
-    "Sources/CAL Communications and Lab/ITNs03A Fault Tolerance.md",
-    "Evergreen/NTW Networking/ITN03A Fault Tolerance.md",
-    "Sources/CAL Communications and Lab/ITNs03 Network Architecture.md",
-    "Evergreen/NTW Networking/ITN03 Network Reliability.md",
-    "Sources/CAL Communications and Lab/ITNs02D The Internet.md",
-    "Evergreen/NTW Networking/ITN02D Internet.md",
-    "Sources/CAL Communications and Lab/ITNs02C Extranet.md",
-    "Evergreen/NTW Networking/ITN02C Extranet.md",
-    "Sources/CAL Communications and Lab/ITNs02B Intranets.md",
-    "Evergreen/NTW Networking/ITN02B Intranet.md",
-    "Evergreen/NTW Networking/ITN02A WAN.md",
-    "Evergreen/NTW Networking/ITN02 LAN.md",
-    "Evergreen/NTW Networking/ITN01B Logical Topology Diagram.md",
-    "Resources/Pre process Annotations/ITN Introduction to Networks.md",
-    "Evergreen/MPU Mechanics Physics/MPU02B Velocity.md",
-    "Templates/Index.md",
-    "Templates/Evergreen Note.md",
-    "Resources/FNI Fast Ideas.md",
+    "Sources/MPU Mechanics Physics/Resources/MPU Problem Solving Strategy 5.2.png",
+    "Sources/MPU Mechanics Physics/Resources/MPU Problem Solving Strategy 5.1.png",
+    "Resources/Pre process Annotations/Resources",
+    "Sources/CAL Communications and Lab/ITNs07A Password Guidelines.md",
+    "Sources/CAL Communications and Lab/ITNs10 Devices in a Bubble.md",
+    "Sources/MPU Mechanics Physics/SZPs01E Vector Product.md",
+    "Sources/MPU Mechanics Physics/SZPs01D Scalar Product.md",
+    "Evergreen/MPU Mechanics Physics/MPU01E Vector Product.md",
+    "Evergreen/MPU Mechanics Physics/MPU01D Scalar Product.md",
+    "Evergreen/MPU Mechanics Physics/MPU01A Vector Components.md",
+    "Evergreen/MPU Mechanics Physics/MPU01B Vector Addition.md",
+    "Evergreen/MPU Mechanics Physics/MPU01C Unit Vector.md",
+    "Sources/CAL Communications and Lab/ITNs00 Host.md",
+    "Evergreen/HTS How To study/HTS00C References Format.md",
+    "Sources/CAL Communications and Lab/ITNs00A Peer to Peer.md",
+    "Evergreen/NTW Networking/ITN03D Network Security.md",
+    "Evergreen/NTW Networking/ITN09E Test Connectivity.md",
+    "Evergreen/NTW Networking/ITN00B Intermediary Device.md",
+    "Sources/CAL Communications and Lab/ITNs09D Verify Connectivity.md",
+    "Sources/CAL Communications and Lab/ITNs09C Switch Virtual Interface Configuration.md",
+    "Evergreen/NTW Networking/ITN09D Switch Virtual Interface.md",
     "Sources/CAL Communications and Lab/ITNs09A Interfaces and Ports.md",
-    "Sources/CAL Communications and Lab/ITNs07B Password Configuration.md",
+    "Evergreen/NTW Networking/ITN09C Automatic IPv4 Configuration.md",
     "Sources/CAL Communications and Lab/ITNs09B Configure IP Addressing.md",
-    "Sources/CAL Communications and Lab/ITNs00B Intermediary Devices.md",
-    "Evergreen/NTW Networking/ITN01 Network Representation.md",
-    "Evergreen/NTW Networking/ITN00 Host.md",
-    "Evergreen/NTW Networking/ITN01A Physical Topology Diagram.md",
-    "Evergreen/NTW Networking/ITN00C Network Media.md",
+    "Sources/CAL Communications and Lab/ITNs09 IP Addresses.md",
+    "Evergreen/NTW Networking/ITN09B IPv6.md",
+    "Evergreen/NTW Networking/ITN09A IPv4.md",
+    "Evergreen/NTW Networking/ITN09 IP Address.md",
     "Canvas/Untitled.canvas",
     "Untitled",
     "Canvas"

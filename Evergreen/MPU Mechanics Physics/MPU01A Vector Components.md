@@ -3,7 +3,7 @@ reference: "[[SZPs01A Components of Vectors]]"
 date: 14/02/2023
 type: 1 #evergreen
 topics: Mechanics Physics, University
-alias: MPU01A, Vector Compontent
+alias: MPU01A, Vector Component
 tags: mechanics_physics, physics, vector
 code: MPU01A
 ---
