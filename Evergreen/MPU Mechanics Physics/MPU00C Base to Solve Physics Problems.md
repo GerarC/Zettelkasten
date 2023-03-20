@@ -1,10 +1,13 @@
 ---
-reference: "[[SZPs00A Solving Physics Problems]]"
+reference:
+- "[[SZPs00A Solving Physics Problems]]"
+- "[[SZPs05 Using Newton's First Law]]"
+- "[[SZPs05A Using Newton's Second Law]]"
 date: 03/02/2023
 type: 1 #evergreen
 topics: Mechanics Physics, University
 alias: MPU00C, Solving Physics Problems, I SEE
-tags: mechanics_physics, physics
+tags: mechanics_physics, physics, need_to_actualize
 code: MPU00C 
 ---
 # MPU00C Base to Solve Physics Problems

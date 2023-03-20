@@ -23,5 +23,7 @@
     "Resources/",
     "README"
   ],
-  "legacyEditor": false
+  "legacyEditor": false,
+  "strictLineBreaks": false,
+  "showLineNumber": false
 }

@@ -36,5 +36,13 @@
   "Border@@h5-color-select": "h5-color-designated",
   "Border@@h6-color-select": "h6-color-designated",
   "Border@@h1-color-select": "h1-color-designated",
-  "Border@@colorful-checkbox": true
+  "Border@@colorful-checkbox": true,
+  "New-Willemstad-Core@@no-animations": false,
+  "New-Willemstad-Core@@undl-text-norm": "default",
+  "New-Willemstad-Editor@@ssopt-editor-vll": false,
+  "pln@@pln-cards-sort": true,
+  "pln@@pln-cards-borders": true,
+  "pln@@pln-rm-co-meta": false,
+  "Border@@Surfing-bookmark-bar-hide": true,
+  "Border@@DB-table-bg-color-unify": false
 }

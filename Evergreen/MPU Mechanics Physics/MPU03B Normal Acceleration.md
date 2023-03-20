@@ -1,10 +1,12 @@
 ---
-reference: "[[SZPs03F Motion in a Circle]]"
+reference:
+- "[[SZPs03F Motion in a Circle]]"
+- "[[SZPs05C Dynamics of Circular Motion]]"
 date: 16/02/2023
 type: 1 #evergreen
 topics: Mechanics Physics, University
 alias: MPU03B, Radial Acceleration, Normal Acceleration
-tags: mechanics_physics, physics
+tags: mechanics_physics, physics, need_to_actualize
 code: MPU03B
 ---
 # MPU03B Normal Acceleration
