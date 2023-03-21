@@ -12,7 +12,7 @@ code: MPU00C
 ---
 # MPU00C Base to Solve Physics Problems
 
-The strategy to solve a physics problem in general is based on four steps: [[#^1|Identify]], [[#^2|Set up]], [[#^3|Execute]], and finally [[#^4|Evaluate]]. Remember this method with the **I SEE** acronym.
+The strategy to solve a physics problem in general is based on four steps: [[#^1|Identify]], [[#^2|Set up]], [[#^3|Execute]], and finally [[#^4|Evaluate]]. Remember this method with the **I SEE** acronym. ^0
 
 **Identify** *the relevant concepts*, which is the initial condition, the target variables, identify known and unknown variables and see if you have to obtain a numerical value or an algebraic expression. ^1
 

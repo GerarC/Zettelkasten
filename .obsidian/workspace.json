@@ -4,23 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "335c8ea3c95e6b2f",
+        "id": "3d20f25b4e28c3e4",
         "type": "tabs",
         "children": [
           {
-            "id": "cf8e403832c1d57c",
+            "id": "33352ac6a2581cf0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "a78ceffdf445626b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Pre process Annotations/ITN Introduction to Networks.md",
-                "mode": "source",
+                "file": "Indexes/MPU Second Partial Exam.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Pre process Annotations/ITN Introduction to Networks.md",
+                "file": "Indexes/MPU Second Partial Exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +107,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/Pre process Annotations/ITN Introduction to Networks.md",
+                "file": "Indexes/MPU Second Partial Exam.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -144,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Pre process Annotations/ITN Introduction to Networks.md"
+                "file": "Indexes/MPU Second Partial Exam.md"
               }
             }
           },
@@ -154,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Pre process Annotations/ITN Introduction to Networks.md",
+                "file": "Indexes/MPU Second Partial Exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,44 +191,44 @@
       "templates:Insert template": false
     }
   },
-  "active": "cf8e403832c1d57c",
+  "active": "a78ceffdf445626b",
   "lastOpenFiles": [
-    "Resources/Pre process Annotations/Resources/Pasted image 20230319181958.png",
-    "Resources/Pre process Annotations/Resources/Pasted image 20230319172653.png",
-    "Resources/Pre process Annotations/Resources/Pasted image 20230319170900.png",
-    "Resources/Pre process Annotations/Resources/Pasted image 20230319120905.png",
-    "Resources/Pre process Annotations/ITN Introduction to Networks.md",
-    "Resources/Pre process Annotations/Resources/Pasted image 20230319115716.png",
-    "Resources/Pre process Annotations/Resources/Pasted image 20230319114000.png",
     "Sources/MPU Mechanics Physics/SZPs05B Friction Forces.md",
-    "Resources/Pre process Annotations/MPS Mechanics Physics.md",
-    "Resources/Pre process Annotations/PPA Pre Process Annotations.md",
-    "Evergreen/MPU Mechanics Physics/MPU05 Friction.md",
-    "Evergreen/MPU Mechanics Physics/Untitled 1.md",
-    "Evergreen/MPU Mechanics Physics/Untitled.md",
-    "Evergreen/MPU Mechanics Physics/MPU04 Force.md",
+    "Indexes/MPU Second Partial Exam.md",
+    "Evergreen/MPU Mechanics Physics/MPU00C Base to Solve Physics Problems.md",
+    "Indexes/MPU First Partial Exam.md",
     "Evergreen/MPU Mechanics Physics/MPU04E Free-Body Diagram.md",
+    "Evergreen/MPU Mechanics Physics/MPU05 Friction.md",
     "Evergreen/MPU Mechanics Physics/MPU04D Newton's Third Law.md",
     "Evergreen/MPU Mechanics Physics/MPU04C Newton's Second Law.md",
     "Evergreen/MPU Mechanics Physics/MPU04B Newton's First Law.md",
-    "Evergreen/MPU Mechanics Physics/MPU05A Dynamics of Circular Motion.md",
-    "Sources/MPU Mechanics Physics/SZPs04H Free-Body Diagrams.md",
-    "Sources/MPU Mechanics Physics/SZPs04G Newton's Third Law.md",
-    "Sources/MPU Mechanics Physics/SZPs04E Newton's Second Law.md",
-    "Sources/MPU Mechanics Physics/SZPs04C Newton's First Law.md",
     "Evergreen/MPU Mechanics Physics/MPU04A Inertia.md",
-    "Sources/MPU Mechanics Physics/SZPs04B Inertia.md",
-    "Sources/MPU Mechanics Physics/SZPs04D Newton Unit.md",
-    "Evergreen/NTW Networking/ITN01B Logical Topology Diagram.md",
-    "Sources/MPU Mechanics Physics/SZPs04A Superposition of Forces.md",
-    "Sources/MPU Mechanics Physics/SZPs04 Force.md",
-    "Evergreen/MPU Mechanics Physics/MPU03D Relative Velocity.md",
+    "Resources/Pre process Annotations/ITN Introduction to Networks.md",
+    "Sources/CCPs Clean Code in Python/CPPs03A Extending built-in types.md",
     "Sources/MPU Mechanics Physics/SZPs05C Dynamics of Circular Motion.md",
-    "Resources/Pre process Annotations/Resources/Pasted image 20230306114252.png",
-    "Sources/MPU Mechanics Physics/Resources/MPU Frictions.png",
-    "Resources/Pre process Annotations/Resources/Pasted image 20230306122816.png",
-    "Resources/Pre process Annotations/Resources/Pasted image 20230306114118.png",
-    "Resources/Pre process Annotations/Resources/Pasted image 20230306114154.png",
+    "Sources/MPU Mechanics Physics/SZPs05A Using Newton's Second Law.md",
+    "Sources/MPU Mechanics Physics/SZPs04D Newton Unit.md",
+    "Sources/C&L Communications & Lab/ITNs28 Switch MAC Table.md",
+    "Sources/C&L Communications & Lab/ITNs27 MAC Address.md",
+    "Sources/C&L Communications & Lab/ITNs26 Ethernet Frame.md",
+    "Sources/C&L Communications & Lab/ITNs29.md",
+    "Sources/C&L Communications & Lab/ITNs25 Data Link Frame.md",
+    "Sources/C&L Communications & Lab/ITNs24B Access Control.md",
+    "Sources/C&L Communications & Lab/ITNs24A Half and Full Duplex.md",
+    "Sources/C&L Communications & Lab/Resources/Pasted image 20230306122816.png",
+    "Sources/C&L Communications & Lab/ITNs24 Topologies.md",
+    "Sources/C&L Communications & Lab/ITNs23A Data Link Layer Standards.md",
+    "Sources/C&L Communications & Lab/ITNs23 Data Link Layer.md",
+    "Sources/C&L Communications & Lab/ITNs22 Hexadecimal System.md",
+    "Sources/C&L Communications & Lab/Resources/ITN OSI - Physical.png",
+    "Sources/C&L Communications & Lab/Resources/Pasted image 20230306112817.png",
+    "Sources/C&L Communications & Lab/Resources/Pasted image 20230306114154.png",
+    "Sources/C&L Communications & Lab/Resources/Pasted image 20230306114252.png",
+    "Sources/C&L Communications & Lab/Resources/Pasted image 20230319115716.png",
+    "Sources/C&L Communications & Lab/Resources/Pasted image 20230319120905.png",
+    "Sources/C&L Communications & Lab/Resources/Pasted image 20230319170900.png",
+    "Sources/C&L Communications & Lab/Resources/Pasted image 20230319172653.png",
+    "Sources/C&L Communications & Lab/Resources/Pasted image 20230319181958.png",
     "Resources/Pre process Annotations/Resources",
     "Canvas/Untitled.canvas",
     "Untitled",
