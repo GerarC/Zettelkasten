@@ -17,7 +17,7 @@ University Physics, Sears and Zemansky; Chapter 5.1.
 > Equilibrium:
 $\sum\vec{F}=0$
 
-> ![[MPU Problem Solving Strategy 5.1.png]]
+> ![[MPS Problem Solving Strategy 5.1.png]]
 
 ## **Summary**
 Applying The First Newton Law:

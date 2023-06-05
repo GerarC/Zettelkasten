@@ -6,12 +6,12 @@ source_type: course
 author: Cisco
 type: 2 #sourcenote
 topics: Networking, University
-tags: unfinished, network
+tags: network
 ---
 # ITNs25 Data Link Frame
 
 ## **Reference**
-<!-- Where do you got it -->
+Introduction to Networking, Cisco; Lesson 3.2.
 
 ## **Quote**
 > ## The Frame
@@ -82,4 +82,24 @@ tags: unfinished, network
 > -   Frame Relay
 
 ## **Summary**
-<!-- try to apply the method of the question and the answer, if there is more than one idea, then make a single note or sub note from each idea -->
+Data link Frame:
+- Each Data Link Frame has three basic parts: Header, Data and Trailer.
+- Is the only one encapsulation protocol in TCP/IP that appends information at the final of the data as a trailer.
+- The structure of the entire Frame vary depending on the protocol.
+- No frame structure meets the needs of all data transportation across all types of media.
+- Depending on the environment, Frame information varies to match to access control method.
+- Frame Fields are: Frame Start used to identify the beginning limit, Addressing where the MAC addresses are, Type which identifies Layer 3 Protocol used in the data field, Control identifies special flow control services such as QoS, Data which is the frame payload and The error detection, and Frame Stop that identifies the end limit.
+- The trailer determines if the frame arrived with any error.
+- The protocol places a logical or mathematical summary in the trailer.
+- Data link adds this error detection because signals on the medial could be affected.
+- A transmitting node creates the summary of the entire frame, known as Cyclic redundancy check (CRC) value.
+- This value is placed in the Frame Check Sequence (FCS) field to represent the content of the frame.
+
+
+Layer 2 Addresses:
+- Data Link Device addresses at this layer are referred to as physical ones. 
+- Addressing is contained in the frame header and specifies the next destination node on the local nnetwork.
+- It's at the beginning of Fram then the NIC can quickly determine if it matches with its own address before accepting the rest of the frame.
+- Layer 2 physical addresses is unique to the specific device in that network, and isn't hierarchical as Layer 3 logical addresses.
+- This type of addressing is only used for local delivery.
+- If data must pass onto another network, an intermediry device must accept it based on the MAC and read the layer 3 address to determine the best path to reach it.

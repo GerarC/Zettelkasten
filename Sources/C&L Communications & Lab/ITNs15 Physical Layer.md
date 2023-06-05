@@ -6,12 +6,12 @@ source_type: course
 author: Cisco
 type: 2 #sourcenote
 topics: Networking, University
-tags: unfinished, network
+tags: network
 ---
 # ITNs15 Physical Layer
 
 ## **Reference**
-<!-- Where do you got it -->
+Introduction to Networking, Cisco; Lesson 4.1.
 
 ## **Quote**
 > ## The Physical Connection
@@ -32,4 +32,17 @@ tags: unfinished, network
 The physical components are the electronic hardware devices, media, and other connectors that transmit the signals that represent the bits. Hardware components such as NICs, interfaces and connectors, cable materials, and cable designs are all specified in standards associated with the physical layer. The various ports and interfaces on a Cisco 1941 router are also examples of physical components with specific connectors and pinouts resulting from standards.
 
 ## **Summary**
-<!-- try to apply the method of the question and the answer, if there is more than one idea, then make a single note or sub note from each idea -->
+Physical Connection:
+- For a connection can occur a physical connection must be established (through any media).
+- The type of connection used depends on the setup of the network.
+- The wireless connection need to be connected to a wireless access point or a wireless router.
+
+Physical Layer:
+- The OSI 1st layer is which provides the means to transport those bits that make up a frame across media.
+- The layer encodes the whole data link frame as a series of signals.
+- The encoded data is received by whether, end or intermediary device.
+- the destination node retrieves the signals, decodes them and passes the bits up to the data link layer as a complete frame.
+
+Physical Components:
+- These components are the electronic hardware devices, media and other connectors that transmit the signals.
+- Hardware components such as NICs, interfaces and connectors, cable material, and cable designs are specified in standards.

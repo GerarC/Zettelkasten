@@ -6,12 +6,12 @@ source_type: course
 author: Cisco
 type: 2 #sourcenote
 topics: Networking, University
-tags: unfinished, network
+tags: network
 ---
 # ITNs16C Bandwidth
 
 ## **Reference**
-<!-- Where do you got it -->
+Introduction to Networking, Cisco; Lesson 4.1.
 
 ## **Quote**
 > ## Bandwidth
@@ -44,10 +44,35 @@ Latency refers to the amount of time, including delays, for data to travel from 
 > In an internetwork, or a network with multiple segments, throughput cannot be faster than the slowest link in the path from source to destination. Even if all, or most, of the segments have high bandwidth, it will only take one segment in the path with low throughput to create a bottleneck in the throughput of the entire network.
 
 > **Throughput**
-There is a third measurement to assess the transfer of usable data; it is known as goodput. Goodput is the measure of usable data transferred over a given period of time. Goodput is throughput minus traffic overhead for establishing sessions, acknowledgments, encapsulation, and retransmitted bits. Goodput is always lower than throughput, which is generally lower than the bandwidth.
+Throughput is the measure of the transfer of bits across the media over a given period of time.
+> 
+> Due to a number of factors, throughput usually does not match the specified bandwidth in physical layer implementations. Throughput is usually lower than the bandwidth. There are many factors that influence throughput:
+> -   The amount of traffic
+> -   The type of traffic
+> -   The latency created by the number of network devices encountered between source and destination
+> There are many online speed tests that can reveal the throughput of an internet connection. The figure provides sample results from a speed test.
 
 > **Goodput**
 There is a third measurement to assess the transfer of usable data; it is known as goodput. Goodput is the measure of usable data transferred over a given period of time. Goodput is throughput minus traffic overhead for establishing sessions, acknowledgments, encapsulation, and retransmitted bits. Goodput is always lower than throughput, which is generally lower than the bandwidth.
 
 ## **Summary**
-<!-- try to apply the method of the question and the answer, if there is more than one idea, then make a single note or sub note from each idea -->
+Bandwidth:
+- Is the capacity at which a medium can carry data.
+- Basically measures how many data can flow over a medium in a given time.
+- This rate change depending of the media.
+- It's measure on bits per second (bps), Kbps, Mbps and Gbps.
+- The practical bandwidth of a network is determined by the properties of the media and the technologies chosen for signals.
+
+Latency:
+- It's defined as the time for data to travel from a point to another, including delays.
+
+Throughput:
+- is the real measure of the transfer of bits across the media in a given time.
+- Throughput usually doesn't match with the bandwidth.
+- Is usually slower to the bandwidth, influenced by the amount and type of traffic, and the latency.
+- Throughput is "bottlenecked" by the lowest segment of the network and the medium throughput cannot be higher than that segment." by the lowest segment of the network and the medium throughput cannot be higher than that segment, even if the other segments are faster.
+
+Goodput:
+- It's the usable data transferred over a given time.
+- Is the throughput minus the traffic.
+- It's slower than the throughput that is slower than the bandwidth.

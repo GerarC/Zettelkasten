@@ -6,7 +6,7 @@ source_type: course
 author: Cisco
 type: 2 #sourcenote
 topics: Networking, University
-tags: unfinished, network
+tags: network
 ---
 # ITNs14 Addresses
 
@@ -19,4 +19,7 @@ Introduction to Networking, Cisco; Lesson 3.7.
 > -   **Data link layer source and destination addresses** - Responsible for delivering the data link frame from one network interface card (NIC) to another NIC on the same network.
 
 ## **Summary**
-<!-- try to apply the method of the question and the answer, if there is more than one idea, then make a single note or sub note from each idea -->
+Difference between the Network and Data Link addresses:
+- Although both layers are responsible of delivering data from a source to a destination, the addresses they handle have different purporses.
+- Addresses of the Network layer are responsible for delivering packages form the source to the final destination, this destination may be on a different network.
+- Data link layer addresses are responsible for delivering data frame from one **NIC** to other NIC.

@@ -6,7 +6,7 @@ source_type: course
 author: Cisco
 type: 2 #sourcenote
 topics: Networking, University
-tags: unfinished, network
+tags: network
 ---
 # ITNs13B Protocol Data Units
 
@@ -21,4 +21,10 @@ Introduction to Networking, Cisco; Lesson 3.6.
 ![[Pasted image 20230306122816.png]]
 
 ## **Summary**
-<!-- try to apply the method of the question and the answer, if there is more than one idea, then make a single note or sub note from each idea -->
+Protocol Data Unit:
+- Protocol information is added to data passing down the protocol stack.
+- This is named encapsulation process.
+- The form that a data piece takes at a layer is called a **Protocol Data Unit** or **PDU**.
+- Each layer encapsulates the PDU it receives in accordance with the protocol being used.
+- PDU has a different name at each layer, reflecting its new funtions.
+- The name of the PDU are Transport Segment, IP packet and Data link frame.

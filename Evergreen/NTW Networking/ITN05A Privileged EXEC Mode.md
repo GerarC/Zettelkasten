@@ -5,7 +5,7 @@ reference:
 date: 23/02/2023
 type: 1 #evergreen
 topics: Networking
-alias: ITN05A, Host, Privileged EXEC Mode, Enable Mode
+alias: ITN05A, Privileged EXEC Mode, Enable Mode
 tags: network, cisco
 code: ITN05A
 ---

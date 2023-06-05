@@ -6,7 +6,7 @@ source_type: course
 author: Cisco
 type: 2 #sourcenote
 topics: Networking, University
-tags: unfinished, network
+tags: network
 ---
 # ITNs14C Data Link Addresses
 
@@ -27,4 +27,9 @@ Introduction to Networking, Cisco; Lesson 3.7.
 > -   **Destination data link address** - The physical address of the NIC that is receiving the data link frame. This address is either the next hop router or the address of the final destination device.
 
 ## **Summary**
-<!-- try to apply the method of the question and the answer, if there is more than one idea, then make a single note or sub note from each idea -->
+Data Link Addresses:
+	- The purpose of this type of addresses is to deliver data link frame from one NIC to another NIC on the same network.
+	- Before an IP packet can be sent through media, it must be encapsulated in a data link frame.
+	- IP packet is encapsulated in a new data link frame in each point (device) of its way to the destination.
+	- Data link protocol is only used to deliver packets NIC to NIC, so the router removes packet information and add new data link information before send it to its destination.
+	- Data link frame has the physical address of the NIC that is sending the frame, and the physical address of the next hop router or the final destination.

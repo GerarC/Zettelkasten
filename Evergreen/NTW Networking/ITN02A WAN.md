@@ -1,10 +1,12 @@
 ---
-reference: "[[ITNs02A WANs]]"
+reference: 
+- "[[ITNs02A WANs]]"
+- "[[ITNs24 Topologies]]"
 date: 23/02/2023
 type: 1 #evergreen
 topics: Networking
 alias: ITN02A, WAN
-tags: network
+tags: network, need_actualization
 code: ITN02A
 ---
 # ITN02A WAN

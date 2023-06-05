@@ -6,12 +6,12 @@ source_type: course
 author: Cisco
 type: 2 #sourcenote
 topics: Networking, University
-tags: unfinished, network
+tags: network
 ---
 # ITNs27 MAC Address
 
 ## **Reference**
-<!-- Where do you got it -->
+Introduction to Networking, Cisco; Lesson 3.2.
 
 ## **Quote**
 > ## MAC Address and Hexadecimal
@@ -98,4 +98,17 @@ tags: unfinished, network
 > Routing protocols and other network protocols use multicast addressing. Applications such as video and imaging software may also use multicast addressing, although multicast applications are not as common.
 
 ## **Summary**
-<!-- try to apply the method of the question and the answer, if there is more than one idea, then make a single note or sub note from each idea -->
+MAC Address:
+- An Ethernet MAC address is a 48-bit (6 bytes) value.
+- it's expressed using only 12 hexadecimal values.
+- Is used to identify the physical device NIC on the local segment.
+- It provides a method for device identification at the data link layer.
+- All MAC addresses must be unique to the Ethernet device or interface (Nowadays just need to be unique in the same network).
+- Ethernet device vendors must register with the IEEE to obtain a unique 6 hexadecimal code called Organizationally Unique Identifier (OUI).
+- to assign a MAC address, the vendor must: use its OUI as the first 6 hex digits and assign a unique value in the last 6.
+
+Types of MAC addresses:
+- There are some types of MAC addresses:
+	- Unicast MAC address: is the unique address used when a frame is sent from a single transmitting or destination device.
+	- Broadcast MAC Address: It's a MAC with all bits in 1, is flooded to all devices except the source, Its not forwarded by a router and is used as destination address when an IPv4 broadcast packets is encapsulated.
+	- Multicast MAC Address: It's received and processed by a group of devices on the LAN, begins with a 01-00-5E when the upper protocol is IPv4 and 33-33 when is IPv6, It's flooded to all the LAN except the source device, and could be forward by the router if it's configured to it.

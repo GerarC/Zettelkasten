@@ -6,12 +6,12 @@ source_type: course
 author: Cisco
 type: 2 #sourcenote
 topics: Networking, University
-tags: unfinished, network
+tags: network
 ---
 # ITNs26 Ethernet Frame
 
 ## **Reference**
-<!-- Where do you got it -->
+Introduction to Networking, Cisco; Lesson 3.2.
 
 ## **Quote**
 > ## Ethernet Encapsulation
@@ -76,4 +76,14 @@ tags: unfinished, network
 > ![[Pasted image 20230320175101.png]]
 
 ## **Summary**
-<!-- try to apply the method of the question and the answer, if there is more than one idea, then make a single note or sub note from each idea -->
+Ethernet Encapsulation:
+- Basically is the layer 2 encapsulation, but more specific.
+- It's given by the 802.3.
+- Fields: 
+	- Preamble and STD (Star Frame Delimiter), with a length of 8 bytes, used to get attention of the receiving nodes.
+	- Destination MAC of 6 bytes of length.
+	- Source MAC of 6 bytes.
+	- type/length of 2 bytes, describe  the upper protocol encapsulated in.
+	- Data field, the encapsulate data (from 48 to 1500 bytes).
+	- Frame Check Sequence Field (FCS).
+

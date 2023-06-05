@@ -6,7 +6,7 @@ date: 16/02/2023
 type: 1 #evergreen
 topics: Mechanics Physics, University
 alias: MPU03B, Radial Acceleration, Normal Acceleration
-tags: mechanics_physics, physics, need_to_actualize
+tags: mechanics_physics, physics
 code: MPU03B
 ---
 # MPU03B Normal Acceleration

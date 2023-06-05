@@ -3,7 +3,7 @@ reference: "[[ITNs03 Network Architecture]]"
 date: 23/02/2023
 type: 1 #evergreen
 topics: Networking
-alias: ITN03, Host, Network Reliability
+alias: ITN03, Network Reliability
 tags: network
 code: ITN03
 ---

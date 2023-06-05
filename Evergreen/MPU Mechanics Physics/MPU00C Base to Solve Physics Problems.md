@@ -7,7 +7,7 @@ date: 03/02/2023
 type: 1 #evergreen
 topics: Mechanics Physics, University
 alias: MPU00C, Solving Physics Problems, I SEE
-tags: mechanics_physics, physics, need_to_actualize
+tags: mechanics_physics, physics
 code: MPU00C 
 ---
 # MPU00C Base to Solve Physics Problems

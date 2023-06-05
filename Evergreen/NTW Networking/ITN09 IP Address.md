@@ -1,10 +1,12 @@
 ---
-reference: "[[ITNs09 IP Addresses]]"
+reference:
+- "[[ITNs09 IP Addresses]]"
+- "[[ITNs14A Layer 3 Logical Address]]"
 date: 23/02/2023
 type: 1 #evergreen
 topics: Networking
 alias: ITN09, IP Address, IP
-tags: network
+tags: network, need_actualization
 code: ITN09
 ---
 # ITN09 IP Address

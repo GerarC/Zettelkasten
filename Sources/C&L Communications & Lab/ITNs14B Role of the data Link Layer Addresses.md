@@ -6,7 +6,7 @@ source_type: course
 author: Cisco
 type: 2 #sourcenote
 topics: Networking, University
-tags: unfinished, network
+tags: network
 ---
 # ITNs14B Role of the data Link Layer Addresses
 
@@ -32,4 +32,19 @@ When the sender and receiver of the IP packet are on different networks, the Eth
 > It is important that the IP address of the default gateway be configured on each host on the local network. All packets to a destination on remote networks are sent to the default gateway. Ethernet MAC addresses and the default gateway are discussed in more detail in other modules.
 
 ## **Summary**
-<!-- try to apply the method of the question and the answer, if there is more than one idea, then make a single note or sub note from each idea -->
+Role of the Data Link Layer Addresses:
+- On the same IP network
+	- when the sender and receiver are on the same I IPP network, Data Link frame is sent directly to the destination.
+	- on a Ethernet Network, Data Link Addresses are named Ethernet Access Control or MAC addresses.
+	- this Type of addresses are embedded on the network NIC.
+	- just as IP packets, Data Link Frames also have source and destination MAC addresses.
+- On a remote Network:
+	- the source and destination IPs will represent host on different networks.
+- Different IP networks:
+	- When sender and receiver are on different networks the Frame cannot be sent directly to the final destination because is not directly reachable.
+	- The Frame must be sent to another device, i.e., The router or default gateway.
+	- The source MAC will be of the sending device.
+	- Destination MAC is the default gateway MAC.
+	- It's why the default gateway must be well configured on all network members.
+ 
+	

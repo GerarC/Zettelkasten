@@ -1,5 +1,7 @@
 ---
-reference: "[[ITNs09 IP Addresses]]"
+reference:
+- "[[ITNs09 IP Addresses]]"
+- "[[ITNs21 Binary System]]"
 date: 23/02/2023
 type: 1 #evergreen
 topics: Networking

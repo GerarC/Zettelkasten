@@ -22,7 +22,7 @@ University Physics, Sears and Zemansky; Chapter 3.5.
 > $\vec{v}_{P/A} = \vec{v}_{P/B} + \vec{v}_{B/A}$
 (relative velocity in space)
 
-> ![[MPU Relative Velocity Diagram.png]]
+> ![[MPS Relative Velocity Diagram.png]]
 
 ## **Summary**
 Relative Velocity:

@@ -6,12 +6,12 @@ source_type: course
 author: Cisco
 type: 2 #sourcenote
 topics: Networking, University
-tags: unfinished, network
+tags: network
 ---
 # ITNs22 Hexadecimal System
 
 ## **Reference**
-<!-- Where do you got it -->
+Introduction to Networking, Cisco; Lesson 3.2.
 
 ## **Quote**
 > Just as decimal is a base ten number system, hexadecimal is a base sixteen system. The base sixteen number system uses the digits 0 to 9 and the letters A to F. The figure shows the equivalent decimal and hexadecimal values for binary 0000 to 1111.
@@ -56,4 +56,9 @@ tags: unfinished, network
 > 3.  **11010010** in binary is equivalent to **210** in decimal.
 
 ## **Summary**
-<!-- try to apply the method of the question and the answer, if there is more than one idea, then make a single note or sub note from each idea -->
+Hexadecimal System for IPv6:
+- Just as Decimal is base ten number system and binary is a base two, Hexadecimal is base sixteen.
+- Is used the hexadecimal system because it's very compatible with binary values, each number from *0* to *F* can be represented by 4 bits.
+- the format of an IPv6 address is x:x:x:x:x:x:x:x where each x is four hexadecimal values.
+- To convert a decimal number to hexadecimal numbers you should: convert the number to a 8-bit number, divide it in groups of 4 bits, and finally convert each group into their hexadecimal equivalent.
+- To convert from hexadecimal to decimal, just do the same in reverse.

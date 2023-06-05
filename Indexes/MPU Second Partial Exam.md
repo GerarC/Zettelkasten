@@ -24,3 +24,7 @@ tags: mechanics_physics
 ![[MPU04B Newton's First Law#MPU04B Newton's First Law]]
 ![[MPU04C Newton's Second Law#MPU04C Newton's Second Law]]
 ![[MPU04D Newton's Third Law#MPU04D Newton's Third Law]]
+
+
+## Work
+![[Work]]

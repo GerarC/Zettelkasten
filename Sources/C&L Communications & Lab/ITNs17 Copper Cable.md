@@ -6,12 +6,12 @@ source_type: course
 author: Cisco
 type: 2 #sourcenote
 topics: Networking, University
-tags: unfinished, network
+tags: network
 ---
 # ITNs17 Copper Cable
 
 ## **Reference**
-<!-- Where do you got it -->
+Introduction to Networking, Cisco; Lesson 3.2.
 
 ## **Quote**
 > ## Characteristics of Copper Cabling
@@ -65,4 +65,16 @@ tags: unfinished, network
 > -   **Cable internet installations** - Cable service providers provide internet connectivity to their customers by replacing portions of the coaxial cable and supporting amplification elements with fiber-optic cable. However, the wiring inside the customer's premises is still coax cable.
 
 ## **Summary**
-<!-- try to apply the method of the question and the answer, if there is more than one idea, then make a single note or sub note from each idea -->
+Copper Cable:
+- Is the most common type of cabling used in networks.
+- There are three types of copper cable.
+- It's commonly used because is cheaper, easy to setup and has low resistance to electrical current.
+- Is limited by the distance and signal interference though.
+- Destination device must receive a signal that can be decoded, but the farther the signal travels, the more it deteriorates, this is more known as signal attenuation.
+- The timing and the voltage values of the pulses are also susceptible to: EMI and RFI, Crosstalk
+- To counter EMI and RFI some types of copper cables are wrapped in metallic shielding.
+- To counter crosstalk some types of copper cables have opposing circuit wire pairs twisted together which cancels it.
+- The types of copper cables are: Unshielded twisted-pair (UTP), Shielded twited-pair (STP) and the coaxial cable.
+
+Crosstalk:
+- Is an interference created by the electromagnetic field of a wire over other wire.

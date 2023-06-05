@@ -6,12 +6,12 @@ source_type: course
 author: Cisco
 type: 2 #sourcenote
 topics: Networking, University
-tags: unfinished, network
+tags: network
 ---
 # ITNs23 Data Link Layer
 
 ## **Reference**
-<!-- Where do you got it -->
+Introduction to Networking, Cisco; Lesson 3.2.
 
 ## **Quote**
 > ## The Data Link Layer
@@ -60,4 +60,31 @@ tags: unfinished, network
 > Press play to view the animation. The router in the figure has an Ethernet interface to connect to the LAN and a serial interface to connect to the WAN. As the router processes frames, it will use data link layer services to receive the frame from one medium, de-encapsulate it to the Layer 3 PDU, re-encapsulate the PDU into a new frame, and place the frame on the medium of the next link of the network.
 
 ## **Summary**
-<!-- try to apply the method of the question and the answer, if there is more than one idea, then make a single note or sub note from each idea -->
+Data Link Layer:
+- Data link layer or Layer 2 of the OSI model is responsible for NIC to NIC communication.
+- It does: Enables upper layers media access regardless of the type, Access data from the Layer 3 and encapsulates it, Controls how data is placed and received on the media, share frames between endpoints over the media, Receives encapsulated data and directs it to up and detects errors to reject any corrupt frame.
+- without data link layer, layer 3 protocols, would have to make provisions to connect to each type of media and should adapt to every new media or network technology.
+
+Logical Link Control (LLC):
+- Its the IEEE 802.2 sublayer of Layer 2.
+- Communicates between the sofware at the upper layers and the harware at the lower layers.
+- It adds information about which layer 3 protocol is being used for the frame, this info allows multiple network layer protocols to use the same net interface and media.
+- Takes network protocol data and adds layer 2 control information to help to deliver the packet.
+- 
+
+Media Access Control (MAC):
+- This sublayer is in the hardware (802.3, 802.11, 802.15).
+- It encapsulates the data and is responsible of Media Access Control.
+- Provies Data Link Layer addressing and it's integrated with various physical layer technologies.
+- 802.3 for Ethernet, 802.11 for WLAN, and 802.15 for WPAN.
+- Controls the NIC and other hardware that is responsible to data sending and receiving.
+- MAC encapsulation consist in three parts: Frame delimiting to identify fields within a frame. Addressing having source and destination addres for transporting the layer 2, and Error detection including a trailer.
+- this sublayer also allows multiple devices to communicate over half-duplex shared medium.
+
+Providing Access to Media:
+- each environment in the Packets travel from local to a remote can have different characteristics. 
+- MAC sublayer resolves the problems that it can involve.
+- Routers encapsulate the packet into a frame.
+- At each hop routers perform: Accepts a frame from a medium, de-encapsulates it, re-encapsulates the packet into a new frame and forwars the new frame to the medium.
+
+

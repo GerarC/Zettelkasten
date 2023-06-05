@@ -6,7 +6,7 @@ source_type: course
 author: Cisco
 type: 2 #sourcenote
 topics: Networking, University
-tags: unfinished, network
+tags: network
 ---
 # ITNs12 OSI Model
 
@@ -30,4 +30,8 @@ Introduction to Networking, Cisco; Lesson 3.5.
  Whereas the TCP/IP model layers are referred to only by name, the seven OSI model layers are more often referred to by number rather than by name.
 
 ## **Summary**
-<!-- try to apply the method of the question and the answer, if there is more than one idea, then make a single note or sub note from each idea -->
+OSI Model:
+- This model provides a lot of functions and services at each layer.
+- this type of model describes what must be done at particular layer, this provides consistency for all the network protocols and services.
+- The OSI Model has seven layers, in order are: *Application*, *Presentation*, *Session*, *Transport*, *Network*, *Data Link* and the *Physical* layers.
+- Usually the layers are referred by the numbers rather than by name.

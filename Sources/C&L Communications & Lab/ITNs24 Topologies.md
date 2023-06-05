@@ -6,12 +6,12 @@ source_type: course
 author: Cisco
 type: 2 #sourcenote
 topics: Networking, University
-tags: unfinished, network
+tags: network
 ---
 # ITNs24 Topologies
 
 ## **Reference**
-<!-- Where do you got it -->
+Introduction to Networking, Cisco; Lesson 3.2.
 
 ## **Quote**
 > The topology of a network is the arrangement, or the relationship, of the network devices and the interconnections between them.
@@ -43,4 +43,16 @@ tags: unfinished, network
 > -   **Ring** - End systems are connected to their respective neighbor forming a ring. The ring does not need to be terminated, unlike in the bus topology. Legacy Fiber Distributed Data Interface (FDDI) and Token Ring networks used ring topologies.
 
 ## **Summary**
-<!-- try to apply the method of the question and the answer, if there is more than one idea, then make a single note or sub note from each idea -->
+Point-to-Point WAN Topology:
+- It directly connects two nodes.
+- two nodes don't have to share the media with other host.
+- Using Point to Point Protocol or PPP, a node doesn't have to determinate about if an incoming frame is destined for it or another node.
+- as all frames only travel to or from the two nodes, this protocol is very simple.
+- The use of physical devices in the network doesn't affect the logical topology, i.e.,, the logical Point to Point connection is the same.
+
+LAN Topologies:
+- In multiconnected LANs, end devices are interconnected using star or extended star topologies.
+- In this type of topologies, host are connected to a central network device.
+- star and extended star are easy to install, very scalable, and easy to troubleshoot.
+- At times could be only two devices, then is more a Point to Point topolody.
+- Old topologies were: Bus, token ring, and ring.

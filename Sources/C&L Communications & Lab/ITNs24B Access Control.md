@@ -6,12 +6,12 @@ source_type: course
 author: Cisco
 type: 2 #sourcenote
 topics: Networking, University
-tags: unfinished, network
+tags: network
 ---
 # ITNs24B Access Control
 
 ## **Reference**
-<!-- Where do you got it -->
+Introduction to Networking, Cisco; Lesson 3.2.
 
 ## **Quote**
 > ## Access Control Methods
@@ -61,4 +61,32 @@ tags: unfinished, network
 > **Note**: Ethernet LANs using switches do not use a contention-based system because the switch and the host NIC operate in full-duplex mode.
 
 ## **Summary**
-<!-- try to apply the method of the question and the answer, if there is more than one idea, then make a single note or sub note from each idea -->
+Multiaccess network:
+- LANs and WANs are multiaccess networks.
+- this type of network is one that can have two or more host attempting to access to the network simultaneously.
+- Some of these networks require rules to govern how devices shared *media*.
+- For this, there are two basic access methods: Contention-based access, Controlled Access.
+
+Contention-Based Access:
+- In this type of access control, all nodes operate in half-duplex.
+- therefore, there is a process if two or more devices transmit at the same time.
+- Two examples are: Carrier sense multiple access with collision detection or CSMA/CD and Carrier sense multiple access with collision avoidance CSMA/CA.
+
+Contention-Based Access - CSMA/CD:
+- How these networks operate in half-duplex mode, this requires a process when multiple devices send simultaneously.
+- When it occur, there is a collision.
+- Then the NIC compares received and transmitted data, or by recognizing signal amplitude is higher than normal.
+- data sent by the devices will be corrupted and will need to be resent.
+
+Contention-Based Access - CSMA/CA:
+- Uses a similar method to CSMA/CD to detect if the media is clear.
+- in addition, CSMA/CA try to avoid collisions waiting before transmitting.
+- Each device that transmits includes the time duration it needs to for transmission.
+- All other devices receive the information and know how long the medium will be unavailable.
+
+Controlled access:
+- In this type of networks, each node has its own time to use the medium.
+- Are very inefficient because a device must wait its turn.
+- Some examples are: Legacy Token Ring, and Legacy ARCNET.
+
+

@@ -6,7 +6,7 @@ source_type: course
 author: Cisco
 type: 2 #sourcenote
 topics: Networking, University
-tags: unfinished, network
+tags: network
 ---
 # ITNs10B Protocol Interaction
 
@@ -22,4 +22,10 @@ Introduction to Networking, Cisco; Lesson 3.2.
 > - **Ethernet -** This protocol is responsible for the delivery of messages from one NIC to another NIC on the same Ethernet local area network (LAN).
 
 ## **Summary**
-<!-- try to apply the method of the question and the answer, if there is more than one idea, then make a single note or sub note from each idea -->
+Interaction between protocols:
+- Each message sent over a network requires some protocols.
+- These protocols are: HTTP, TCP, IP and Ethernet.
+- The first one defines content and formatting of the request and responses.
+- The second manages the individual conversations between devices.
+- IP is the one who responds for delivering messages from the source to the destiny.
+- The last one looks for delivering from one NIC to other NIC on the same LAN.

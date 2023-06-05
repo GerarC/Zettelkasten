@@ -27,7 +27,7 @@ $$f_k = \mu_kn$$
 >Friction and normal forces are always perpendicular Remember that Eq. (5.3) is not a vector equation because $\vec{f}_k$ and $\vec{n}$ are always perpendicular. Rather, it is a scalar relationship between the magnitudes of the two forces.
 
 > Friction forces may also act when there is no relative motion. If you try to slide a box across the floor, the box may not move at all because the floor exerts an equal and opposite friction force on the box. This is called a **static friction force $\vec{f}_s$**.    
-![[MPU Frictions.png]]
+![[MPS Frictions.png]]
 
 $f_s \le (f_S)_{max} = \mu_sn$
 

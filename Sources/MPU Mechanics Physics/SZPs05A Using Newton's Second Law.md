@@ -15,7 +15,7 @@ University Physics, Sears and Zemansky; Chapter 5.2.
 
 ## **Quote
 > $\sum\vec{F}=m\vec{a}$
-![[MPU Problem Solving Strategy 5.2.png]]
+![[MPS Problem Solving Strategy 5.2.png]]
 
 
 ## **Summary**

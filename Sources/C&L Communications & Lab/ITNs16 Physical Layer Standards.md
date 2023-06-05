@@ -6,12 +6,12 @@ source_type: course
 author: Cisco
 type: 2 #sourcenote
 topics: Networking, University
-tags: unfinished, network
+tags: network
 ---
 # ITNs16 Physical Layer Standards
 
 ## **Reference**
-<!-- Where do you got it -->
+Introduction to Networking, Cisco; Lesson 4.1.
 
 ## **Quote**
 The protocols and operations of the upper OSI layers are performed using software designed by software engineers and computer scientists. The services and protocols in the TCP/IP suite are defined by the Internet Engineering Task Force (IETF).
@@ -38,4 +38,9 @@ The physical layer standards address three functional areas:
 -   Signaling
 
 ## **Summary**
-<!-- try to apply the method of the question and the answer, if there is more than one idea, then make a single note or sub note from each idea -->
+Physical Layer Standards:
+- Sofware used by the protocols and operations of the upper OSI layers is designed by sotware engineers and computer scientists.
+- Upper TCP/IP layer services and protocols are defined by the IETF.
+- The standards of the physical layers are defined by relevant electrical and communications engineering organizations.
+- These organizations are: ISO, TIA/EIA, ITU, ANSI, IEEE, FCC and ETSI.
+- Physical Layer Standards address three functional areas: Physical Components, Encoding, Signaling.

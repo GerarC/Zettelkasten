@@ -6,7 +6,7 @@ source_type: course
 author: Cisco
 type: 2 #sourcenote
 topics: Networking, University
-tags: unfinished, network
+tags: network
 ---
 # ITNs14A Layer 3 Logical Address
 
@@ -26,4 +26,10 @@ The IP packet contains two IP addresses:
 > -   **Host portion (IPv4) or Interface ID (IPv6)** - The remaining part of the address that identifies a specific device on the network. This portion is unique for each device or interface on the network.
 
 ## **Summary**
-<!-- try to apply the method of the question and the answer, if there is more than one idea, then make a single note or sub note from each idea -->
+IP addresses:
+- IP Address is the network layer logical address.
+- IP packet has two ip addresses, the source and destination addresses.
+- IP addresses indicate the original source and the final destination.
+- Each address, whether IPv4 or IPv6, has two parts.
+- The network portion (IPv4) or prefix (IPv6) that identifies the network in which is a member.
+- Host portion (IPv4) or Interface ID (IPv6) that indicates a specific device on that network.

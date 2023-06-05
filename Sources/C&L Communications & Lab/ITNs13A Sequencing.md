@@ -6,7 +6,7 @@ source_type: course
 author: Cisco
 type: 2 #sourcenote
 topics: Networking, University
-tags: unfinished, network
+tags: network
 ---
 # ITNs13A Sequencing
 
@@ -19,4 +19,6 @@ Introduction to Networking, Cisco; Lesson 3.6.
 > In network communications, each segment of the message must go through a similar process to ensure that it gets to the correct destination and can be reassembled into the content of the original message, as shown in the figure. TCP is responsible for sequencing the individual segments.
 
 ## **Summary**
-<!-- try to apply the method of the question and the answer, if there is more than one idea, then make a single note or sub note from each idea -->
+Sequencing:
+- Using Segmentation is to add other level of complexity to sending messages and is possible that the fragments reach the destination out of the order.
+-  Sequencing is a process which ensure that data gets to the correct destination and can be rea

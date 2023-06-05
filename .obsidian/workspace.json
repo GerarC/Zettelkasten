@@ -4,32 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "3d20f25b4e28c3e4",
+        "id": "3c7df543ffde952c",
         "type": "tabs",
         "children": [
           {
-            "id": "33352ac6a2581cf0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "a78ceffdf445626b",
+            "id": "8d8bbe525e36be0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indexes/MPU Second Partial Exam.md",
+                "file": "Sources/MPU Mechanics Physics/SZPs12 Periodic Motion.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e6b05b1933c92e54",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "4325b427f679a4c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44e29160042a56d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources/MPU Mechanics Physics/SZPs12 Periodic Motion.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -58,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Radio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +95,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "3a2baa42bdea92e1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 427.51049613952637,
+    "collapsed": true
   },
   "right": {
     "id": "3afbfa8621022cbf",
@@ -95,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indexes/MPU Second Partial Exam.md",
+                "file": "Sources/MPU Mechanics Physics/SZPs12 Periodic Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Indexes/MPU Second Partial Exam.md",
+                "file": "Sources/MPU Mechanics Physics/SZPs12 Periodic Motion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -153,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indexes/MPU Second Partial Exam.md"
+                "file": "Sources/MPU Mechanics Physics/SZPs12 Periodic Motion.md"
               }
             }
           },
@@ -163,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indexes/MPU Second Partial Exam.md",
+                "file": "Sources/MPU Mechanics Physics/SZPs12 Periodic Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,47 +221,53 @@
       "templates:Insert template": false
     }
   },
-  "active": "a78ceffdf445626b",
+  "active": "e6b05b1933c92e54",
   "lastOpenFiles": [
-    "Sources/MPU Mechanics Physics/SZPs05B Friction Forces.md",
-    "Indexes/MPU Second Partial Exam.md",
-    "Evergreen/MPU Mechanics Physics/MPU00C Base to Solve Physics Problems.md",
-    "Indexes/MPU First Partial Exam.md",
-    "Evergreen/MPU Mechanics Physics/MPU04E Free-Body Diagram.md",
-    "Evergreen/MPU Mechanics Physics/MPU05 Friction.md",
-    "Evergreen/MPU Mechanics Physics/MPU04D Newton's Third Law.md",
-    "Evergreen/MPU Mechanics Physics/MPU04C Newton's Second Law.md",
-    "Evergreen/MPU Mechanics Physics/MPU04B Newton's First Law.md",
-    "Evergreen/MPU Mechanics Physics/MPU04A Inertia.md",
-    "Resources/Pre process Annotations/ITN Introduction to Networks.md",
-    "Sources/CCPs Clean Code in Python/CPPs03A Extending built-in types.md",
-    "Sources/MPU Mechanics Physics/SZPs05C Dynamics of Circular Motion.md",
-    "Sources/MPU Mechanics Physics/SZPs05A Using Newton's Second Law.md",
-    "Sources/MPU Mechanics Physics/SZPs04D Newton Unit.md",
-    "Sources/C&L Communications & Lab/ITNs28 Switch MAC Table.md",
-    "Sources/C&L Communications & Lab/ITNs27 MAC Address.md",
-    "Sources/C&L Communications & Lab/ITNs26 Ethernet Frame.md",
-    "Sources/C&L Communications & Lab/ITNs29.md",
-    "Sources/C&L Communications & Lab/ITNs25 Data Link Frame.md",
-    "Sources/C&L Communications & Lab/ITNs24B Access Control.md",
-    "Sources/C&L Communications & Lab/ITNs24A Half and Full Duplex.md",
-    "Sources/C&L Communications & Lab/Resources/Pasted image 20230306122816.png",
-    "Sources/C&L Communications & Lab/ITNs24 Topologies.md",
-    "Sources/C&L Communications & Lab/ITNs23A Data Link Layer Standards.md",
-    "Sources/C&L Communications & Lab/ITNs23 Data Link Layer.md",
-    "Sources/C&L Communications & Lab/ITNs22 Hexadecimal System.md",
-    "Sources/C&L Communications & Lab/Resources/ITN OSI - Physical.png",
-    "Sources/C&L Communications & Lab/Resources/Pasted image 20230306112817.png",
-    "Sources/C&L Communications & Lab/Resources/Pasted image 20230306114154.png",
-    "Sources/C&L Communications & Lab/Resources/Pasted image 20230306114252.png",
-    "Sources/C&L Communications & Lab/Resources/Pasted image 20230319115716.png",
-    "Sources/C&L Communications & Lab/Resources/Pasted image 20230319120905.png",
-    "Sources/C&L Communications & Lab/Resources/Pasted image 20230319170900.png",
-    "Sources/C&L Communications & Lab/Resources/Pasted image 20230319172653.png",
-    "Sources/C&L Communications & Lab/Resources/Pasted image 20230319181958.png",
+    "Sources/MPU Mechanics Physics/SZPs11A Center of Gravity.md",
+    "Sources/MPU Mechanics Physics/SZPs12A Simple Harmonic Motion.md",
+    "Sources/MPU Mechanics Physics/SZPs11 Equilibrium.md",
+    "Sources/MPU Mechanics Physics/SZPs10H Conservation of Angular Momentum.md",
+    "Sources/MPU Mechanics Physics/SZPs10G Angular Momentum.md",
+    "Sources/MPU Mechanics Physics/SZPs10F Work and Power In Rotational Motion.md",
+    "Sources/MPU Mechanics Physics/SZPs10E Dynamics - Combined Translation and Rotation.md",
+    "Sources/MPU Mechanics Physics/Resources/MPS Some Moments of Inertia.png",
+    "Resources/PDF/Sears - Fisica Mecánica.pdf",
+    "Resources/PDF/University Physics - Sears and Zemansky's, Pearson Education (14th ed, 2015).pdf",
+    "Sources/MPU Mechanics Physics/SZPs12B Energy in Simple Harmonic Motion.md",
+    "Evergreen/MPU Mechanics Physics/MPU10 Torque.md",
+    "Evergreen/MPU Mechanics Physics/MPU10A Torque and Angular Acceleration.md",
+    "Sources/MPU Mechanics Physics/SZPs09G Moment Of Inertia Calculations.md",
+    "Evergreen/MPU Mechanics Physics/MPU09D Moment of Inertia.md",
+    "Evergreen/MPU Mechanics Physics/MPU09A Angular Velocity.md",
+    "Resources/University Physics - Sears and Zemansky's, Pearson Education (14th ed, 2015).pdf",
+    "Resources/Sears - Fisica Mecánica.pdf",
+    "Resources/PDF",
+    "Resources/DPF",
+    "Resources/pdf",
+    "Sources/MPU Mechanics Physics/SZPs12 Periodic Motion.md",
+    "Sources/MPU Mechanics Physics/SZPs10D Rolling Without Slipping.md",
+    "Sources/MPU Mechanics Physics/SZPs10C Combined Translation and Rotation.md",
+    "Sources/MPU Mechanics Physics/SZPs10B Solving a Torque Problem.md",
+    "Sources/MPU Mechanics Physics/SZPs10A Torque and Angular Acceleration.md",
+    "Sources/MPU Mechanics Physics/SZPs10 Torque.md",
+    "Evergreen/PRG Programming/ICC00 Importance of Clean Code.md",
+    "Resources/Pre process Annotations/DST Data Structures.md",
+    "Evergreen/MPU Mechanics Physics/MPU03E Radius.md",
+    "Evergreen/MPU Mechanics Physics/MPU09 Angle.md",
+    "Evergreen/MPU Mechanics Physics/MPU09B Angular Acceleration.md",
+    "Sources/MPU Mechanics Physics/SZPs09 Angular Velocity and Acceleration.md",
+    "Sources/DST Data Structure",
+    "Sources/MPU Mechanics Physics/Resources/MPS Problem Solving Strategy 14.1.png",
+    "Sources/MPU Mechanics Physics/Resources/MPS Circular Motion as SHM.png",
+    "Sources/MPU Mechanics Physics/Resources/MPS Problem Solving Strategy 11.1.png",
+    "Resources/Pre process Annotations/Resources/Pasted image 20230421163012.png",
+    "Sources/MPU Mechanics Physics/Resources/MPS Problem Solving Strategy 10.1.png",
+    "Sources/MPU Mechanics Physics/Resources/MPS Problem Solving Strategy 9.1.png",
+    "Resources/Pre process Annotations/Resources/Pasted image 20230421162802.png",
+    "Sources/MPU Mechanics Physics/Resources/MPS Problem Solving Strategy 8.1.png",
+    "Sources/MPU Mechanics Physics/Resources/MPS Problem Solving Strategy 7.1.png",
     "Resources/Pre process Annotations/Resources",
     "Canvas/Untitled.canvas",
-    "Untitled",
-    "Canvas"
+    "Untitled"
   ]
 }

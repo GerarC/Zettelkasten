@@ -6,7 +6,7 @@ source_type: course
 author: Cisco
 type: 2 #sourcenote
 topics: Networking, University
-tags: unfinished, network
+tags: network
 ---
 # ITNs12A TCP-IP Protocol Model
 
@@ -24,4 +24,8 @@ Introduction to Networking, Cisco; Lesson 3.5.
 |**1 - Network Access**|Controls the hardware devices and media that make up the network.|
 
 ## **Summary**
-<!-- try to apply the method of the question and the answer, if there is more than one idea, then make a single note or sub note from each idea -->
+TCP/IP Model:
+- This Protocol model, is also referred to as the *Internet Model*.
+- Was created in the early 70s.
+- Is a protocol model (and not only a reference model) because it describes the functions that occur at each layer of protocols.
+- It has four layer, *Application*, *Transport*, *Internet* and *Network access*.

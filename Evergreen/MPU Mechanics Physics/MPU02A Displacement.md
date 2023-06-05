@@ -9,7 +9,7 @@ code: MPU02A
 ---
 # MPU02A Displacement
 
-**Displacement** is the change of [[MPU02 Position Vector|Position]], you can find it calculating the difference between two vectors. It's denoted as $\Delta \vec{r} = \vec{r}_2 - \vec{r}_1$.
+**Displacement** is the change of [[MPU02 Position Vector|Position]], you can find it calculating the difference between two position vectors. It's denoted as $\Delta \vec{r} = \vec{r}_2 - \vec{r}_1$.
 
 # Links
 <<[[MPU02 Position Vector|MPU02]]|[[MPU02B Velocity|MPU02B]]>>

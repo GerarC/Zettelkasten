@@ -6,12 +6,12 @@ source_type: course
 author: Cisco
 type: 2 #sourcenote
 topics: Networking, University
-tags: unfinished, network
+tags: network
 ---
 # ITNs20 Wireless Media
 
 ## **Reference**
-<!-- Where do you got it -->
+Introduction to Networking, Cisco; Lesson 3.2.
 
 ## **Quote**
 > ## Properties of Wireless Media
@@ -50,4 +50,6 @@ tags: unfinished, network
 > -   **Wireless NIC adapters** - These provide wireless communication capability to network hosts.
 
 ## **Summary**
-<!-- try to apply the method of the question and the answer, if there is more than one idea, then make a single note or sub note from each idea -->
+Wireless LAN:
+- It enables to End devices to connect wirelessly via a LAN.
+- In general, a Wireless LAN (WLAN) requires a Wireless Access Point (AP) such a router or switch and Wireless NIC adapters.

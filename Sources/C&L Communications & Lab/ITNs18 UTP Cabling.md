@@ -6,12 +6,12 @@ source_type: course
 author: Cisco
 type: 2 #sourcenote
 topics: Networking, University
-tags: unfinished, network
+tags: network
 ---
 # ITNs18 UTP Cabling
 
 ## **Reference**
-<!-- Where do you got it -->
+Introduction to Networking, Cisco; Lesson 3.2.
 
 ## **Quote**
 > ## Properties of UTP Cabling
@@ -64,4 +64,11 @@ tags: unfinished, network
 > ![[Pasted image 20230319120905.png]]
 
 ## **Summary**
-<!-- try to apply the method of the question and the answer, if there is more than one idea, then make a single note or sub note from each idea -->
+UTP Cabling:
+- Consist of four pairs of color-coded copper wires.
+- The twisted pairs not only cancel the crosstalk, also cancel EMI and RFI signals.
+- UTP cabling conforms to the standards established jointly by the TIA/EIA.
+- UTP cables have been placed into categories based on their ability to carry higher bandwidth rates. For example, category 5 and 5e supports 100 Mbps and category 8 supports 40 Gbps.
+- There are two types of UTP cables, Straight-through and Crossover.
+- Straight-through is the most common type of networking cable and is used to connect different types of devices.
+- Crossover is used to interconnect similar devices.

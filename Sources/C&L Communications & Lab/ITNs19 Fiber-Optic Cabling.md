@@ -6,12 +6,12 @@ source_type: course
 author: Cisco
 type: 2 #sourcenote
 topics: Networking, University
-tags: unfinished, network
+tags: network
 ---
 # ITNs19 Fiber-Optic Cabling
 
 ## **Reference**
-<!-- Where do you got it -->
+Introduction to Networking, Cisco; Lesson 3.2.
 
 ## **Quote**
 > ## Properties of Fiber-Optic Cabling
@@ -41,4 +41,10 @@ tags: unfinished, network
 > One of the highlighted differences between MMF and SMF is the amount of dispersion. Dispersion refers to the spreading out of a light pulse over time. Increased dispersion means increased loss of signal strength. MMF has a greater dispersion than SMF. That is why MMF can only travel up to 500 meters before signal loss.
 
 ## **Summary**
-<!-- try to apply the method of the question and the answer, if there is more than one idea, then make a single note or sub note from each idea -->
+Fiber-Optic Cabling:
+- It's expensive, it's not as commonly used as the copper cabling.
+- Transmit the data over longer distances and at higher bandwidths than other types of media.
+- Is completely immune to EMI and RFI signals and has a low attenuation.
+- There are two types of Fiber: Single-mode fiber (SMF) and Multimode fiber (MMF).
+- SMF produces only a single straight path for the light, that can travel large distances
+- MMF is popular in LANs because it can be powered by low-cost LEDs. The otherside is that only can travel up to 500 meters.

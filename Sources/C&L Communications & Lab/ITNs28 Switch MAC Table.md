@@ -6,12 +6,12 @@ source_type: course
 author: Cisco
 type: 2 #sourcenote
 topics: Networking, University
-tags: unfinished, network
+tags: network
 ---
 # ITNs28 Switch MAC Table
 
 ## **Reference**
-<!-- Where do you got it -->
+Introduction to Networking, Cisco; Lesson 3.2.
 
 ## **Quote**
 > ## Switch Fundamentals
@@ -60,4 +60,24 @@ tags: unfinished, network
 > When a device has an IP address that is on a remote network, the Ethernet frame cannot be sent directly to the destination device. Instead, the Ethernet frame is sent to the MAC address of the default gateway, the router.
 
 ## **Summary**
-<!-- try to apply the method of the question and the answer, if there is more than one idea, then make a single note or sub note from each idea -->
+MAC Address Tables:
+- A layer 2 switch uses MAC addresses to make forwarding decisions.
+- It's unaware of the data protocol being carried.
+- So it makes its decisions based only on the MAC addresses.
+- A Switch examines its MAC table to take a decision for each frame.
+- MAC address Table is also known as a Content Addressable Memory or CAM table.
+
+Learning Addresses:
+- Every frame is checked for new information to learn.
+- If source MAC address doesn't exist then is added to the CAM table along with the incoming port number.
+- If the source exists in the Table then the switch resets timer for that entry.
+- by default, switches usually kep an entry in the table for 5 minutes.
+- If the address exists in the table but on a different port, the switch treats it as a new entry and replaces the old using the new port.
+- A switch can have multiple MAC addresses associated with the same port number, it's common when the switch is connected to another switch
+
+Forwarding:
+- the switch will look for a match between the destination MAC address of the frame and an entry.
+- If the MAC is in the table, it forwards the frame out to through the specified port number.
+- If the MAC is not in the table then the switch forwards it to all ports except the incoming one.
+- If the MAC is a broadcast or multicast, the frame is also flooded out all ports.
+- If the IP address is on a remote network, then the switch sends the frame to the MAC address of the default gateway.

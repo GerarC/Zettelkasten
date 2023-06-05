@@ -6,7 +6,7 @@ source_type: course
 author: Cisco
 type: 2 #sourcenote
 topics: Networking, University
-tags: unfinished, network
+tags: network
 ---
 # ITNs13 Segmenting Messages
 
@@ -23,4 +23,8 @@ Introduction to Networking, Cisco; Lesson 3.6.
 > -   **Increases efficiency** -If a single segment is fails to reach its destination due to a failure in the network or network congestion, only that segment needs to be retransmitted instead of resending the entire data stream.
 
 ## **Summary**
-<!-- try to apply the method of the question and the answer, if there is more than one idea, then make a single note or sub note from each idea -->
+Message Segmentation:
+- Though is possible send large messages through the media, but it isn't the better approach.
+- A better way to send data is dividing data into smaller and more manageable packages. This is called segmentation.
+- This is necessary because the TCP/IP suite send data in individual IP packets.
+- Segmentation has mainly two benefits: Increases speed because a large packet is not using the entire media for itself letting many conversations be interleaved and Increases the efficiency because if some packet fails only those segments need to be retransmitted and not the whole message.

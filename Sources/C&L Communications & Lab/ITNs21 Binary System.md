@@ -6,12 +6,12 @@ source_type: course
 author: Cisco
 type: 2 #sourcenote
 topics: Networking, University
-tags: unfinished, network
+tags: network
 ---
 # ITNs21 Binary System
 
 ## **Reference**
-<!-- Where do you got it -->
+Introduction to Networking, Cisco; Lesson 3.2.
 
 ## **Quote**
 > ## Binary and IPv4 Addresses
@@ -55,4 +55,8 @@ tags: unfinished, network
 |Position value|128|64|32|16|8|4|2|1|
 
 ## **Summary**
-<!-- try to apply the method of the question and the answer, if there is more than one idea, then make a single note or sub note from each idea -->
+Binary System for IPV4:
+- As IPv4 IP's below are represented by binary numbers, it's necessary to know how it works.
+- To convert a binary number into a decimal number you just need to know the positional notation of the binary numbers.
+- The positional notation means that the rightest one equals $2^0 = 1$, the second at the right equals to $2^1 = 2$, the third to $2^2 = 4$ and so on.
+- As IPv4 use the Dotted notation then you just need to worry about binary numbers with 8 bits length. 

@@ -13,6 +13,3 @@ code: ITN00
 
 # Links
 <<[[ITN00A Peer to Peer|ITN00A]]>>
-
-**Related notes:**
-- [[]] 
