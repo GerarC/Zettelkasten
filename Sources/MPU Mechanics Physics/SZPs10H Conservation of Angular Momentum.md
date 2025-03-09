@@ -6,7 +6,7 @@ source_type: book
 author: Sears, Zemansky
 type: 2 #sourcenote
 topics: Mechanics Physics, Physics
-tags: unfinished, mechanics_physics, physics
+tags: mechanics_physics, physics
 ---
 # SZPs10H Conservation of Angular Momentum
 
@@ -14,7 +14,7 @@ tags: unfinished, mechanics_physics, physics
 University Physics, Sears and Zemansky; Chapter 10.6.
 
 ## **Quote**
-> We have just seen that angular momentum can be used for an alternative statement of the basic dynamic principle for rotational motion. It also forms the basis for the principle of conservation of angular momentum. Like conservation of energy and of linear momentum, this principle is a universal conservation law, valid at all scales from atomic and nuclear systems to the motions of galaxies
+> We have just seen that angular momentum can be used for an alternative university Physics, Sears  statement of the basic dynamic principle for rotational motion. It also forms the basis for the principle of conservation of angular momentum. Like conservation of energy and of linear momentum, this principle is a universal conservation law, valid at all scales from atomic and nuclear systems to the motions of galaxies
 When the net external torque acting on a system is zero, the total angular momentum of the system is constant (conserved).
 if $\sum\vec{\tau}=\Large\frac{d\vec{L}}{dt} = 0$ so $\vec{L}$ is constant.
 

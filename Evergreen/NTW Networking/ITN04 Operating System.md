@@ -6,7 +6,7 @@ date: 23/02/2023
 type: 1 #evergreen
 topics: Operating System
 alias: ITN04, Operating System
-tags: network, opesys
+tags: network, operative_system
 code: ITN04
 ---
 # ITN04 Operating System

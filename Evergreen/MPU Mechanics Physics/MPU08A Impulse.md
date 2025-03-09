@@ -11,7 +11,7 @@ code: MPU08A
 **Impulse** is the product of the net [[MPU04 Force|Force]] and the time interval, is represented by a $\vec{J}$ and its [[MPU00A Standard Unit|SI]] Unit is the Newton in seconds $N\cdot s$. In general, $\vec{J} = \int_{t_1}^{t_2}$. It has the same Units of momentum, so it can be seen as the change of [[MPU08 Momentum|Momentum]].
 
 # Links
-<<[[MPU08 Momentum|MPU08]]|[[MPU08B Collisions|MPU08B]]
+<<[[MPU08 Momentum|MPU08]]|[[MPU08B Collisions|MPU08B]]>>
 
 **Related notes:**
 - [[MPU06A Kinetic Energy|Energy]]

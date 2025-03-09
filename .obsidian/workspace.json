@@ -4,50 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3c7df543ffde952c",
+        "id": "f408f76574d717c2",
         "type": "tabs",
         "children": [
           {
-            "id": "8d8bbe525e36be0c",
+            "id": "e26e3936ec87ff2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/MPU Mechanics Physics/SZPs12 Periodic Motion.md",
+                "file": "Resources/2025-1/ETH Class/Ethics.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e6b05b1933c92e54",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "4325b427f679a4c7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "44e29160042a56d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sources/MPU Mechanics Physics/SZPs12 Periodic Motion.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Ethics"
             }
           }
         ]
@@ -69,8 +41,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -79,13 +54,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Radio",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -93,7 +70,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -101,15 +80,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 427.51049613952637,
-    "collapsed": true
+    "width": 445.5
   },
   "right": {
     "id": "3afbfa8621022cbf",
@@ -125,45 +105,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sources/MPU Mechanics Physics/SZPs12 Periodic Motion.md",
+                "file": "Resources/2024-2/SQA Software Quality/Class200928.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "f8c9e52ca1b4fa96",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Sources/MPU Mechanics Physics/SZPs12 Periodic Motion.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.433785133416524,
-                  "repelStrength": 19.1216864039932,
-                  "linkStrength": 0.785890170344239,
-                  "linkDistance": 369,
-                  "scale": 0.17369214807744152,
-                  "close": true
-                }
-              }
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Class200928"
             }
           },
           {
@@ -174,7 +121,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -183,8 +132,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/MPU Mechanics Physics/SZPs12 Periodic Motion.md"
-              }
+                "file": "Resources/2024-2/SQA Software Quality/Class200928.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Class200928"
             }
           },
           {
@@ -193,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/MPU Mechanics Physics/SZPs12 Periodic Motion.md",
+                "file": "Resources/2024-2/SQA Software Quality/Class200928.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,73 +152,116 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Class200928"
+            }
+          },
+          {
+            "id": "b8ff1de59893b8bd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "884813ccb79a6d87",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Resources/2024-2/SQA Software Quality/Class200928.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Class200928"
+            }
+          },
+          {
+            "id": "6749ef8bbe73747e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
+    "width": 405.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": true,
       "command-palette:Open command palette": false,
-      "templates:Insert template": false
+      "templates:Insert template": false,
+      "graph:Open graph view": false,
+      "zettelflow:Create a new Zettel Note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e6b05b1933c92e54",
+  "active": "e26e3936ec87ff2f",
   "lastOpenFiles": [
-    "Sources/MPU Mechanics Physics/SZPs11A Center of Gravity.md",
-    "Sources/MPU Mechanics Physics/SZPs12A Simple Harmonic Motion.md",
-    "Sources/MPU Mechanics Physics/SZPs11 Equilibrium.md",
-    "Sources/MPU Mechanics Physics/SZPs10H Conservation of Angular Momentum.md",
-    "Sources/MPU Mechanics Physics/SZPs10G Angular Momentum.md",
-    "Sources/MPU Mechanics Physics/SZPs10F Work and Power In Rotational Motion.md",
-    "Sources/MPU Mechanics Physics/SZPs10E Dynamics - Combined Translation and Rotation.md",
-    "Sources/MPU Mechanics Physics/Resources/MPS Some Moments of Inertia.png",
+    "Resources/2025-1/ETH Class",
+    "Resources/CAI User Manual.md",
+    "Resources/2025-1/ETH Class/Ethics.md",
+    "Resources/2025-1",
+    "Resources/Resources/Pasted image 20250204211334.png",
+    "Resources/Resources/Pasted image 20250204210916.png",
+    "Resources/Resources/Pasted image 20250204210842.png",
+    "Resources/Resources/Pasted image 20250204210802.png",
+    "Resources/Resources/Pasted image 20250204205108.png",
+    "Resources/Resources/Pasted image 20250204204210.png",
     "Resources/PDF/Sears - Fisica Mecánica.pdf",
-    "Resources/PDF/University Physics - Sears and Zemansky's, Pearson Education (14th ed, 2015).pdf",
-    "Sources/MPU Mechanics Physics/SZPs12B Energy in Simple Harmonic Motion.md",
-    "Evergreen/MPU Mechanics Physics/MPU10 Torque.md",
-    "Evergreen/MPU Mechanics Physics/MPU10A Torque and Angular Acceleration.md",
-    "Sources/MPU Mechanics Physics/SZPs09G Moment Of Inertia Calculations.md",
-    "Evergreen/MPU Mechanics Physics/MPU09D Moment of Inertia.md",
-    "Evergreen/MPU Mechanics Physics/MPU09A Angular Velocity.md",
-    "Resources/University Physics - Sears and Zemansky's, Pearson Education (14th ed, 2015).pdf",
-    "Resources/Sears - Fisica Mecánica.pdf",
-    "Resources/PDF",
-    "Resources/DPF",
-    "Resources/pdf",
-    "Sources/MPU Mechanics Physics/SZPs12 Periodic Motion.md",
-    "Sources/MPU Mechanics Physics/SZPs10D Rolling Without Slipping.md",
-    "Sources/MPU Mechanics Physics/SZPs10C Combined Translation and Rotation.md",
-    "Sources/MPU Mechanics Physics/SZPs10B Solving a Torque Problem.md",
-    "Sources/MPU Mechanics Physics/SZPs10A Torque and Angular Acceleration.md",
-    "Sources/MPU Mechanics Physics/SZPs10 Torque.md",
-    "Evergreen/PRG Programming/ICC00 Importance of Clean Code.md",
+    "Resources/Resources/Pasted image 20250204205031.png",
+    "Resources/Resources",
+    "Resources/FNI Fast Ideas.md",
+    "Resources/NCG Note Codes Glossary.md",
+    "Resources/TNG Tango Piano Accompanion.md",
+    "Resources/2024-2/Linux Installation.md",
     "Resources/Pre process Annotations/DST Data Structures.md",
-    "Evergreen/MPU Mechanics Physics/MPU03E Radius.md",
-    "Evergreen/MPU Mechanics Physics/MPU09 Angle.md",
-    "Evergreen/MPU Mechanics Physics/MPU09B Angular Acceleration.md",
-    "Sources/MPU Mechanics Physics/SZPs09 Angular Velocity and Acceleration.md",
-    "Sources/DST Data Structure",
-    "Sources/MPU Mechanics Physics/Resources/MPS Problem Solving Strategy 14.1.png",
-    "Sources/MPU Mechanics Physics/Resources/MPS Circular Motion as SHM.png",
-    "Sources/MPU Mechanics Physics/Resources/MPS Problem Solving Strategy 11.1.png",
-    "Resources/Pre process Annotations/Resources/Pasted image 20230421163012.png",
-    "Sources/MPU Mechanics Physics/Resources/MPS Problem Solving Strategy 10.1.png",
-    "Sources/MPU Mechanics Physics/Resources/MPS Problem Solving Strategy 9.1.png",
-    "Resources/Pre process Annotations/Resources/Pasted image 20230421162802.png",
-    "Sources/MPU Mechanics Physics/Resources/MPS Problem Solving Strategy 8.1.png",
-    "Sources/MPU Mechanics Physics/Resources/MPS Problem Solving Strategy 7.1.png",
-    "Resources/Pre process Annotations/Resources",
-    "Canvas/Untitled.canvas",
-    "Untitled"
+    "Resources/2024-2/CV TIPS.md",
+    "Resources/2024-2/SQA Software Quality/Resources/Pasted image 20241021164648.png",
+    "Resources/Pre process Annotations/PPA Pre Process Annotations.md",
+    "Resources/2024-1/SAQ Software Architecture/SAQ Software Architecture 5.md",
+    "Resources/2024-1/SAQ Software Architecture/SAQ Software Architecture 3.md",
+    "Resources/2024-2/IPJ Integrator PRoject/ISO 27001.md",
+    "Resources/2024-2/IPJ Integrator PRoject/Requirement Analysis.md",
+    "Resources/2024-2/IPJ Integrator PRoject/ToDo.md",
+    "Resources/2024-2/SQA Software Quality/Sonar.md",
+    "Resources/2024-2/SQA Software Quality/Resources/Pasted image 20241021211047.png",
+    "Resources/2024-2/SQA Software Quality/Resources/Controller Contacto.png",
+    "Resources/2024-2/SQA Software Quality/Resources",
+    "Resources/2024-1/SAQ Software Architecture/Partial Exam SaQ.md",
+    "Resources/2024-2/SQA Software Quality/Class200928.md",
+    "Resources/2024-2/SQA Software Quality/Class240810.md",
+    "Resources/2024-2/SQA Software Quality/Class240820.md",
+    "Resources/2024-2/SQA Software Quality/Class240831.md",
+    "Resources/2024-2/SQA Software Quality/Class240914.md",
+    "Resources/2024-2/SQA Software Quality/Class240824.md",
+    "Resources/2024-1/SAQ Software Architecture/SAQ Software Architecture.md",
+    "Resources/2023-2/OSY Class/Class-230929.md",
+    "Resources/2023-2/OSY Class/Class-230926.md",
+    "Resources/2024-2/SQA Software Quality/Untitled.canvas",
+    "Resources/2024-2/Seic",
+    "Resources/2024-2/IPJ Integrator PRoject/Resources",
+    "Resources/2024-2/IPJ Integrator PRoject",
+    "Resources/2024-2/BCP Bootcamp Pragma",
+    "Resources/2024-2/SQA Software Quality/Class240810.md~",
+    "Resources/2024-2/SQA Software Quality/4913",
+    "Indexes/Untitled.canvas",
+    "Canvas/Untitled.canvas"
   ]
 }

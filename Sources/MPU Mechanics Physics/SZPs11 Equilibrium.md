@@ -6,7 +6,7 @@ source_type: book
 author: Sears, Zemansky
 type: 2 #sourcenote
 topics: Mechanics Physics, Physics
-tags: unfinished, mechanics_physics, physics
+tags: mechanics_physics, physics
 ---
 # SZPs11 Equilibrium
 

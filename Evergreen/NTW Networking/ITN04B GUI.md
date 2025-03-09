@@ -4,7 +4,7 @@ date: 23/02/2023
 type: 1 #evergreen
 topics: Operating System
 alias: ITN04B, GUI
-tags: network, opesys
+tags: network, operative_system
 code: ITN04B
 ---
 # ITN04B GUI

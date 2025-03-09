@@ -1,0 +1,6 @@
+{
+  "loggerEnabled": true,
+  "uniquePrefixEnabled": false,
+  "uniquePrefix": "YYYYMMDDHHmmss",
+  "logLevel": "trace"
+}
